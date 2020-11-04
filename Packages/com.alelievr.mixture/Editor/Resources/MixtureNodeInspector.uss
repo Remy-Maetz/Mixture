@@ -27,3 +27,11 @@
 #unity-content {
     margin-left: 0;
 }
+
+.unity-base-field > .unity-label {
+    min-width: 120px;
+}
+
+.unity-composite-field__field > .unity-label {
+    min-width: 10px;
+}
