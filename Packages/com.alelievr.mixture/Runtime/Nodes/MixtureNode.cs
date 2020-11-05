@@ -102,6 +102,7 @@ namespace Mixture
 			if (graph.mainOutputTexture == null)
 				return false;
 
+			bool changed = false;
 			int outputWidth = rtSettings.GetWidth(graph);
 			int outputHeight = rtSettings.GetHeight(graph);
 			int outputDepth = rtSettings.GetDepth(graph);
@@ -176,12 +177,13 @@ namespace Mixture
 				target.Create();
 				if (target.material == null)
 					target.material = MixtureUtils.dummyCustomRenderTextureMaterial;
+				changed = true;
 			}
 
 			// Patch update mode based on graph type
 			target.updateMode = updateMode;
 
-			return false;
+			return changed;
 		}
 
 		protected virtual TextureDimension GetTempTextureDimension() => rtSettings.GetTextureDimension(graph);
@@ -404,7 +406,11 @@ namespace Mixture
 		}
 #endif
 
-		public void OnSettingsChanged() => onSettingsChanged?.Invoke();
+		public void OnSettingsChanged()
+		{
+			onSettingsChanged?.Invoke();
+			graph.NotifyNodeChanged(this);
+		}
 
 		Dictionary<Material, Material>		defaultMaterials = new Dictionary<Material, Material>();
 
