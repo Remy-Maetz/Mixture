@@ -256,23 +256,7 @@ MonoBehaviour:
     outputFieldName: output
     inputPortIdentifier: Main Texture
     outputPortIdentifier: output
-  - GUID: 35fe1567-e7cf-4877-b1c4-cf1f178e3850
-    owner: {fileID: 11400000}
-    inputNodeGUID: c8e17c1f-a46f-4642-8a8f-ec37af75d205
-    outputNodeGUID: 0eb33a62-bf66-430c-a5f5-57be353dacc2
-    inputFieldName: materialInputs
-    outputFieldName: output
-    inputPortIdentifier: _Source_Cube
-    outputPortIdentifier: output
-  - GUID: 975fc866-037b-4bae-89d7-b3a6b8a1d0fa
-    owner: {fileID: 11400000}
-    inputNodeGUID: c8e17c1f-a46f-4642-8a8f-ec37af75d205
-    outputNodeGUID: 87c759d1-f1b1-4b1c-8d11-7de40002afbc
-    inputFieldName: materialInputs
-    outputFieldName: output
-    inputPortIdentifier: _Target_Cube
-    outputPortIdentifier: output
-  - GUID: e4e9a85e-0ddb-4f37-8bb7-a2d47104e9f5
+  - GUID: 2007d39c-e637-44f5-912b-e32e5b9c07d1
     owner: {fileID: 11400000}
     inputNodeGUID: c8e17c1f-a46f-4642-8a8f-ec37af75d205
     outputNodeGUID: e63465a9-53c7-4e7a-a2bf-55693cf8a2fb
@@ -280,16 +264,33 @@ MonoBehaviour:
     outputFieldName: output
     inputPortIdentifier: _Mask_Cube
     outputPortIdentifier: output
+  - GUID: 3d3cd9fa-528c-4f78-80ca-de4139769189
+    owner: {fileID: 11400000}
+    inputNodeGUID: c8e17c1f-a46f-4642-8a8f-ec37af75d205
+    outputNodeGUID: 87c759d1-f1b1-4b1c-8d11-7de40002afbc
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Target_Cube
+    outputPortIdentifier: output
+  - GUID: 69a005bd-6aba-44de-9579-c44e0da7bdc9
+    owner: {fileID: 11400000}
+    inputNodeGUID: c8e17c1f-a46f-4642-8a8f-ec37af75d205
+    outputNodeGUID: 0eb33a62-bf66-430c-a5f5-57be353dacc2
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_Cube
+    outputPortIdentifier: output
   groups: []
   stackNodes: []
   pinnedElements: []
   exposedParameters: []
   stickyNotes: []
-  position: {x: 727, y: 98, z: 0}
-  scale: {x: 0.8695652, y: 0.8695652, z: 1}
+  position: {x: 858, y: 150, z: 0}
+  scale: {x: 1, y: 1, z: 1}
   realtimePreview: 0
   isRealtime: 0
   isParameterViewOpen: 0
+  embedInBuild: 0
   objectReferences:
   - {fileID: 6198279585419937231}
   - {fileID: -1788398137522152917}

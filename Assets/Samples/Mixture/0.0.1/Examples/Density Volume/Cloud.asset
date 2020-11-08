@@ -79,7 +79,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs/ShaderNodeDefault
   m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
-  m_ShaderKeywords: CRT_3D
+  m_ShaderKeywords: CRT_3D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -235,7 +235,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs/ShaderNodeDefault
   m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
-  m_ShaderKeywords: CRT_3D
+  m_ShaderKeywords: CRT_3D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -426,11 +426,12 @@ MonoBehaviour:
   pinnedElements: []
   exposedParameters: []
   stickyNotes: []
-  position: {x: 1917, y: 474, z: 0}
-  scale: {x: 0.8695652, y: 0.8695652, z: 1}
+  position: {x: 1231, y: 423, z: 0}
+  scale: {x: 0.65751624, y: 0.65751624, z: 1}
   realtimePreview: 0
   isRealtime: 0
   isParameterViewOpen: 0
+  embedInBuild: 0
   objectReferences:
   - {fileID: 7333470367267672487}
   - {fileID: 6806248943353258335}
@@ -678,7 +679,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _Frequency: 9
     - _Lacunarity: 2
-    - _Octaves: 6.1
+    - _Octaves: 6
     - _OpaqueCullMode: 2
     - _Persistance: 0.34
     - _RenderQueueType: 1

@@ -253,11 +253,12 @@ MonoBehaviour:
   pinnedElements: []
   exposedParameters: []
   stickyNotes: []
-  position: {x: 1081, y: 261, z: 0}
+  position: {x: 855, y: 240, z: 0}
   scale: {x: 0.7561437, y: 0.7561437, z: 1}
   realtimePreview: 0
   isRealtime: 0
   isParameterViewOpen: 0
+  embedInBuild: 0
   objectReferences:
   - {fileID: 8230493663554966389}
   - {fileID: -7656915211537458154}
@@ -319,7 +320,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _Frequency: 3
     - _Lacunarity: 2
-    - _Octaves: 5.9
+    - _Octaves: 5
     - _OpaqueCullMode: 2
     - _Persistance: 0.4
     - _RenderQueueType: 1

@@ -7,7 +7,7 @@
 		[InlineTexture(HideInNodeInspector)] _UV_Cube("UVs", Cube) = "uv" {}
 
 		[MixtureVector2]_OutputRange("Output Range", Vector) = (-1, 1, 0, 0)
-		_Lacunarity("Lacunarity", Float) = 2
+		[ShowInInspector]_Lacunarity("Lacunarity", Float) = 2
 		_Frequency("Frequency", Float) = 5
 		_Persistance("Persistance", Float) = 0.5
 		[IntRange]_Octaves("Octaves", Range(1, 12)) = 5
@@ -42,7 +42,7 @@
 
 			float4 mixture (v2f_customrendertexture i) : SV_Target
 			{
-				float3 uvs = GetNoiseUVs(i, SAMPLE_X(_UV, i.localTexcoord.xyz, i.direction).xyz, _Seed);
+				float3 uvs = GetNoiseUVs(i, SAMPLE_X(_UV, i.localTexcoord.xyz, i.direction), _Seed);
 
 #ifdef CRT_2D
 				float4 noise = GeneratePerlin2D_FBM(uvs * _Frequency, _Seed).r;
