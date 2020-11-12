@@ -8,7 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 3af7a795a79964049822bf16fe8c795c,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -49,7 +50,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: bd0e9b179d9b69e4f9a0f98d347bee62, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -87,7 +88,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: d5d8cf3f4ee4f2d4283ca198b776e3af,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -127,7 +129,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -185,7 +187,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -246,7 +248,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -304,7 +306,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -340,7 +342,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce3b36cf9f41c4085eed0e6cefa959,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -430,7 +433,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -491,7 +494,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -549,7 +552,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce3b36cf9f41c4085eed0e6cefa959,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -592,7 +596,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 92d8c97c0c0de6a41a986ea9d3291139,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -632,7 +637,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -668,7 +673,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -704,7 +709,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce3b36cf9f41c4085eed0e6cefa959,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -747,7 +753,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -805,7 +811,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -841,7 +847,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -899,7 +905,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -957,7 +963,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1016,7 +1022,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1077,7 +1083,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1136,7 +1142,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1206,7 +1212,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1265,7 +1271,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1301,7 +1307,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 47633e2c0f07a004eae77b0445ed0bd5, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -1367,20 +1373,18 @@ MonoBehaviour:
   serializedNodes:
   - type: Mixture.OutputNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"20aad9a2-f45b-443d-9f30-0287577d108c","computeOrder":46,"position":{"serializedVersion":"2","x":6128.19921875,"y":-188.10137939453126,"width":350.0,"height":527.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":0.0,"heightPercent":0.0,"depthPercent":0.0,"width":1024,"height":1024,"sliceCount":1024,"potSize":1024,"widthMode":1,"heightMode":1,"depthMode":1,"dimension":2,"outputChannels":1,"outputPrecision":2,"editFlags":981,"doubleBuffered":false,"wrapMode":0,"filterMode":0,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"outputTextureSettings":[{"inputTexture":{"instanceID":0},"name":"Main
+    jsonDatas: '{"GUID":"20aad9a2-f45b-443d-9f30-0287577d108c","computeOrder":47,"position":{"serializedVersion":"2","x":6128.19921875,"y":-188.10137939453126,"width":350.0,"height":527.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":0.0,"heightPercent":0.0,"depthPercent":0.0,"width":1024,"height":1024,"sliceCount":1024,"potSize":1024,"widthMode":1,"heightMode":1,"depthMode":1,"dimension":2,"outputChannels":1,"outputPrecision":2,"editFlags":981,"doubleBuffered":false,"wrapMode":0,"filterMode":0,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"outputTextureSettings":[{"inputTexture":{"instanceID":0},"name":"Main
       Texture","enableCompression":true,"compressionFormat":25,"compressionQuality":100,"hasMipMaps":false,"customMipMapShader":{"instanceID":0},"isMain":true,"enableConversion":false,"conversionFormat":0,"finalCopyMaterial":{"fileID":-427504043281072081,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2}}]}'
   - type: Mixture.Circles, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"80e70861-f803-4c9f-9b10-df6501943a4d","computeOrder":25,"position":{"serializedVersion":"2","x":-269.5999755859375,"y":-74.24999237060547,"width":250.0,"height":581.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":2909303743391392089,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"SphereColor","referenceName":"Color_520A6CBD","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"80e70861-f803-4c9f-9b10-df6501943a4d","computeOrder":25,"position":{"serializedVersion":"2","x":-269.5999755859375,"y":-74.24999237060547,"width":250.0,"height":581.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"d5d8cf3f4ee4f2d4283ca198b776e3af","type":3},"material":{"fileID":2909303743391392089,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"SphereColor","referenceName":"Color_520A6CBD","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_2B645451","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Inner
       Size","referenceName":"Vector3_e2b97f2ef6be4d4dbba34b9653cb3d6a","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Tile","referenceName":"_Tile","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Offset","referenceName":"_Offset","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"Vector1_1de7270f58eb414aa356b032360b0735","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"d5d8cf3f4ee4f2d4283ca198b776e3af"}'
   - type: Mixture.RectanglesNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"9f3b0473-31da-4a27-a046-fcf3af27a55d","computeOrder":26,"position":{"serializedVersion":"2","x":-1508.4000244140625,"y":743.4501342773438,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":4082358410351941089,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"9f3b0473-31da-4a27-a046-fcf3af27a55d","computeOrder":26,"position":{"serializedVersion":"2","x":-1508.4000244140625,"y":743.4501342773438,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"92d8c97c0c0de6a41a986ea9d3291139","type":3},"material":{"fileID":4082358410351941089,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_69B370C1","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"InnerSize","referenceName":"Vector3_90ab8e0cfccc42ff933ee0f553788f88","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"Vector1_80b6ea8c66f74c7b90cdad44939e757c","tooltip":"","type":{"serializedType":"System.Single,
@@ -1389,7 +1393,7 @@ MonoBehaviour:
     jsonDatas: '{"GUID":"9452e153-a3c0-4eaa-a6eb-ba17c77a17c0","computeOrder":24,"position":{"serializedVersion":"2","x":-470.5999755859375,"y":36.75,"width":150.0,"height":103.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"Float":0.25}'
   - type: Mixture.ThresholdNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"91f1f4dc-e9f5-4241-bb20-dfd48744ead1","computeOrder":29,"position":{"serializedVersion":"2","x":-455.5000305175781,"y":619.1224975585938,"width":250.0,"height":540.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-8948862942662267504,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"91f1f4dc-e9f5-4241-bb20-dfd48744ead1","computeOrder":30,"position":{"serializedVersion":"2","x":-455.5000305175781,"y":619.1224975585938,"width":250.0,"height":540.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"bd0e9b179d9b69e4f9a0f98d347bee62","type":3},"material":{"fileID":-8948862942662267504,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Channel","referenceName":"_Channel","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Threshold","referenceName":"_Threshold","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Feather","referenceName":"_Feather","tooltip":"Smooth
@@ -1397,19 +1401,17 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Invert","referenceName":"_Invert","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"bd0e9b179d9b69e4f9a0f98d347bee62"}'
   - type: Mixture.Distance, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"a3956568-21c9-41ce-8fda-fc03ade8436d","computeOrder":-1,"position":{"serializedVersion":"2","x":-777.6300659179688,"y":674.9600219726563,"width":250.0,"height":453.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":1,"outputPrecision":4,"editFlags":127,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":1,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"computeShader":{"instanceID":0},"input":{"instanceID":0},"output":{"instanceID":0},"mode":2,"threshold":0.10000000149011612,"thresholdMode":0,"distance":25.399999618530275,"distanceMode":0}'
+    jsonDatas: '{"GUID":"a3956568-21c9-41ce-8fda-fc03ade8436d","computeOrder":29,"position":{"serializedVersion":"2","x":-777.6300659179688,"y":674.9600219726563,"width":250.0,"height":453.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":1,"outputPrecision":4,"editFlags":127,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":1,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"computeShader":{"fileID":7200000,"guid":"f6802a80cf90eea42b28efa42c68eb51","type":3},"input":{"instanceID":0},"output":{"instanceID":0},"mode":2,"threshold":0.10000000149011612,"thresholdMode":0,"distance":25.399999618530275,"distanceMode":0}'
   - type: Mixture.Lines, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"230c1d40-b6a3-4c09-ae77-742361b0fd7c","computeOrder":27,"position":{"serializedVersion":"2","x":-1508.0,"y":1286.0,"width":250.0,"height":645.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-9053176464052575797,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_0b800f21b7834f34b2f8fccb70497644","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"230c1d40-b6a3-4c09-ae77-742361b0fd7c","computeOrder":27,"position":{"serializedVersion":"2","x":-1508.0,"y":1286.0,"width":250.0,"height":645.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"3af7a795a79964049822bf16fe8c795c","type":3},"material":{"fileID":-9053176464052575797,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_0b800f21b7834f34b2f8fccb70497644","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_4e4ca9b8331044a7a521f153309b8fa0","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"","type":{"serializedType":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Offset","referenceName":"_Offset","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"_Smooth","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Smooth","referenceName":"_Smooth","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Rotation
       (Deg)","referenceName":"_Rotation","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"3af7a795a79964049822bf16fe8c795c"}'
   - type: Mixture.SubNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"66e8fb07-2cda-48c4-bce5-57be77db7561","computeOrder":28,"position":{"serializedVersion":"2","x":-1101.7000732421875,"y":725.6500854492188,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-75156957831054499,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"66e8fb07-2cda-48c4-bce5-57be77db7561","computeOrder":28,"position":{"serializedVersion":"2","x":-1101.7000732421875,"y":725.6500854492188,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"47633e2c0f07a004eae77b0445ed0bd5","type":3},"material":{"fileID":-75156957831054499,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1417,24 +1419,24 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"47633e2c0f07a004eae77b0445ed0bd5"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"c1431330-cdbf-4b46-99ed-a26f35782969","computeOrder":31,"position":{"serializedVersion":"2","x":-128.7499237060547,"y":619.0001220703125,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-2880087327953436249,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"c1431330-cdbf-4b46-99ed-a26f35782969","computeOrder":32,"position":{"serializedVersion":"2","x":-128.7499237060547,"y":619.0001220703125,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-2880087327953436249,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"53affbd5-48d5-4b90-8c9c-8b5092ef4493","computeOrder":30,"position":{"serializedVersion":"2","x":-482.91998291015627,"y":1202.33251953125,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":2,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-4670420020037735050,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"53affbd5-48d5-4b90-8c9c-8b5092ef4493","computeOrder":31,"position":{"serializedVersion":"2","x":-482.91998291015627,"y":1202.33251953125,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":2,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-4670420020037735050,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.Blur, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"027d50f3-e065-4f76-8c77-7ac7315c6aa9","computeOrder":44,"position":{"serializedVersion":"2","x":5101.19921875,"y":168.89865112304688,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":7932102243359989349,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"Source
+    jsonDatas: '{"GUID":"027d50f3-e065-4f76-8c77-7ac7315c6aa9","computeOrder":45,"position":{"serializedVersion":"2","x":5101.19921875,"y":168.89865112304688,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"c1f8bac2a6637264ea45079cfa2c04e8","type":3},"material":{"fileID":7932102243359989349,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"Source
       Texture","type":{"serializedType":"UnityEngine.Texture2D, UnityEngine.CoreModule,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"Blur
       radius in pixels","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"c1f8bac2a6637264ea45079cfa2c04e8"}'
   - type: Mixture.ThresholdNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"863e9868-2e57-4fad-97ec-b96ffd09b6b5","computeOrder":45,"position":{"serializedVersion":"2","x":5443.19921875,"y":-74.10135650634766,"width":250.0,"height":525.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":1929934324375773362,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"863e9868-2e57-4fad-97ec-b96ffd09b6b5","computeOrder":46,"position":{"serializedVersion":"2","x":5443.19921875,"y":-74.10135650634766,"width":250.0,"height":525.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"bd0e9b179d9b69e4f9a0f98d347bee62","type":3},"material":{"fileID":1929934324375773362,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Channel","referenceName":"_Channel","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Threshold","referenceName":"_Threshold","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Feather","referenceName":"_Feather","tooltip":"Smooth
@@ -1443,25 +1445,25 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"bd0e9b179d9b69e4f9a0f98d347bee62"}'
   - type: Mixture.RectanglesNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"ecd82e2c-82e9-4047-b7e8-b081b100722b","computeOrder":1,"position":{"serializedVersion":"2","x":742.0502319335938,"y":-862.5001220703125,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":4595885564464678417,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"ecd82e2c-82e9-4047-b7e8-b081b100722b","computeOrder":1,"position":{"serializedVersion":"2","x":742.0502319335938,"y":-862.5001220703125,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"92d8c97c0c0de6a41a986ea9d3291139","type":3},"material":{"fileID":4595885564464678417,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_69B370C1","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"InnerSize","referenceName":"Vector3_90ab8e0cfccc42ff933ee0f553788f88","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"Vector1_80b6ea8c66f74c7b90cdad44939e757c","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"92d8c97c0c0de6a41a986ea9d3291139"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"11cd1361-c7c9-4e89-bc3d-a4e546492e0b","computeOrder":23,"position":{"serializedVersion":"2","x":1321.0,"y":-863.0,"width":250.0,"height":414.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":7859800118083838206,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"11cd1361-c7c9-4e89-bc3d-a4e546492e0b","computeOrder":23,"position":{"serializedVersion":"2","x":1321.0,"y":-863.0,"width":250.0,"height":414.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":7859800118083838206,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"171bff65-448d-437c-b9cb-81c630d0e6bf","computeOrder":20,"position":{"serializedVersion":"2","x":1321.0,"y":-47.99996566772461,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":2,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":4962163994793048452,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"171bff65-448d-437c-b9cb-81c630d0e6bf","computeOrder":20,"position":{"serializedVersion":"2","x":1321.0,"y":-47.99996566772461,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":2,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":4962163994793048452,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.NormalRotate, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"e641913d-088f-4f14-b699-1348d365c33e","computeOrder":21,"position":{"serializedVersion":"2","x":1321.0,"y":-237.00001525878907,"width":250.0,"height":199.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":8836369237570681976,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
+    jsonDatas: '{"GUID":"e641913d-088f-4f14-b699-1348d365c33e","computeOrder":21,"position":{"serializedVersion":"2","x":1321.0,"y":-237.00001525878907,"width":250.0,"height":199.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"08ce3b36cf9f41c4085eed0e6cefa959","type":3},"material":{"fileID":8836369237570681976,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
       Map","referenceName":"Texture2D_95AB7B17","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Rotation
       Map","referenceName":"Texture2D_92e0578231b74b3bad71d945d017278d","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1469,16 +1471,14 @@ MonoBehaviour:
       In Degree","referenceName":"Vector1_D0B32F70","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"08ce3b36cf9f41c4085eed0e6cefa959"}'
   - type: Mixture.Circles, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"2e578bc9-25bd-443a-aae2-701a11bd405e","computeOrder":0,"position":{"serializedVersion":"2","x":742.0,"y":-1482.0003662109375,"width":250.0,"height":619.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-8796109195394373789,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"SphereColor","referenceName":"Color_520A6CBD","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"2e578bc9-25bd-443a-aae2-701a11bd405e","computeOrder":0,"position":{"serializedVersion":"2","x":742.0,"y":-1482.0003662109375,"width":250.0,"height":619.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"d5d8cf3f4ee4f2d4283ca198b776e3af","type":3},"material":{"fileID":-8796109195394373789,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"SphereColor","referenceName":"Color_520A6CBD","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_2B645451","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Inner
       Size","referenceName":"Vector3_e2b97f2ef6be4d4dbba34b9653cb3d6a","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Tile","referenceName":"_Tile","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Offset","referenceName":"_Offset","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"Vector1_1de7270f58eb414aa356b032360b0735","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"d5d8cf3f4ee4f2d4283ca198b776e3af"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"564dea4c-9437-4d1e-8e60-97c575db88be","computeOrder":2,"position":{"serializedVersion":"2","x":1037.266845703125,"y":-863.0,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":1,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-7140284222476624904,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"564dea4c-9437-4d1e-8e60-97c575db88be","computeOrder":2,"position":{"serializedVersion":"2","x":1037.266845703125,"y":-863.0,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":1,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":-7140284222476624904,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1490,7 +1490,7 @@ MonoBehaviour:
       sample the mask value","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"d5ea847c-7175-4457-9685-559ea6d1fe75","computeOrder":32,"position":{"serializedVersion":"2","x":215.10006713867188,"y":-53.04997253417969,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":1273739086410149451,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"d5ea847c-7175-4457-9685-559ea6d1fe75","computeOrder":33,"position":{"serializedVersion":"2","x":215.10006713867188,"y":-53.04997253417969,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":1273739086410149451,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1502,7 +1502,7 @@ MonoBehaviour:
       sample the mask value","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"3f41704a-9ae0-445f-86a3-272b327ba6a0","computeOrder":33,"position":{"serializedVersion":"2","x":1595.032470703125,"y":140.0924835205078,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-1812790274827779950,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"3f41704a-9ae0-445f-86a3-272b327ba6a0","computeOrder":34,"position":{"serializedVersion":"2","x":1595.032470703125,"y":140.0924835205078,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":-1812790274827779950,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1514,7 +1514,7 @@ MonoBehaviour:
       sample the mask value","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"c479ff35-2f76-4056-9a94-9a7bc42c92c1","computeOrder":34,"position":{"serializedVersion":"2","x":1920.032470703125,"y":140.0924835205078,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":9007253708371751014,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"c479ff35-2f76-4056-9a94-9a7bc42c92c1","computeOrder":35,"position":{"serializedVersion":"2","x":1920.032470703125,"y":140.0924835205078,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":9007253708371751014,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1527,12 +1527,12 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"930501e1-f246-48c9-853a-bbd6e21d0cd4","computeOrder":19,"position":{"serializedVersion":"2","x":1646.4974365234375,"y":-863.0,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":3462438095595633740,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"930501e1-f246-48c9-853a-bbd6e21d0cd4","computeOrder":19,"position":{"serializedVersion":"2","x":1646.4974365234375,"y":-863.0,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":3462438095595633740,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.NormalRotate, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"9f56f91e-ccda-407f-8571-2da35b72f975","computeOrder":17,"position":{"serializedVersion":"2","x":1646.0,"y":-236.9999542236328,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-5693320421008954674,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
+    jsonDatas: '{"GUID":"9f56f91e-ccda-407f-8571-2da35b72f975","computeOrder":17,"position":{"serializedVersion":"2","x":1646.0,"y":-236.9999542236328,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"08ce3b36cf9f41c4085eed0e6cefa959","type":3},"material":{"fileID":-5693320421008954674,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
       Map","referenceName":"Texture2D_95AB7B17","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Rotation
       Map","referenceName":"Texture2D_92e0578231b74b3bad71d945d017278d","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1540,13 +1540,13 @@ MonoBehaviour:
       In Degree","referenceName":"Vector1_D0B32F70","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"08ce3b36cf9f41c4085eed0e6cefa959"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"434ba5db-2d56-4716-b312-ee947e438475","computeOrder":16,"position":{"serializedVersion":"2","x":1646.0,"y":-47.999961853027347,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-3008980351799855121,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"434ba5db-2d56-4716-b312-ee947e438475","computeOrder":16,"position":{"serializedVersion":"2","x":1646.0,"y":-47.999961853027347,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-3008980351799855121,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"f653a86b-a7a0-4cf7-99c3-bc38c7e3227c","computeOrder":18,"position":{"serializedVersion":"2","x":1646.0,"y":-448.9999084472656,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-225780731431904307,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"f653a86b-a7a0-4cf7-99c3-bc38c7e3227c","computeOrder":18,"position":{"serializedVersion":"2","x":1646.0,"y":-448.9999084472656,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-225780731431904307,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1554,7 +1554,7 @@ MonoBehaviour:
       Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
   - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"bad14403-fdad-4f30-bc65-ba0511558d0b","computeOrder":22,"position":{"serializedVersion":"2","x":1321.0,"y":-449.00006103515627,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":5347942294558647693,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"bad14403-fdad-4f30-bc65-ba0511558d0b","computeOrder":22,"position":{"serializedVersion":"2","x":1321.0,"y":-449.00006103515627,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":5347942294558647693,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1563,12 +1563,12 @@ MonoBehaviour:
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"d643baeb-7650-4644-9e77-2af7072c9443","computeOrder":15,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-863.0,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-8027561092811341183,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"d643baeb-7650-4644-9e77-2af7072c9443","computeOrder":15,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-863.0,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-8027561092811341183,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.NormalRotate, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"8250af80-f0cd-441d-b4b5-474af1b472cb","computeOrder":13,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-236.99998474121095,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-3602067953455002132,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
+    jsonDatas: '{"GUID":"8250af80-f0cd-441d-b4b5-474af1b472cb","computeOrder":13,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-236.99998474121095,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"08ce3b36cf9f41c4085eed0e6cefa959","type":3},"material":{"fileID":-3602067953455002132,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
       Map","referenceName":"Texture2D_95AB7B17","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Rotation
       Map","referenceName":"Texture2D_92e0578231b74b3bad71d945d017278d","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1576,13 +1576,13 @@ MonoBehaviour:
       In Degree","referenceName":"Vector1_D0B32F70","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"08ce3b36cf9f41c4085eed0e6cefa959"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"53c978e3-1290-4530-8631-036e1224da8a","computeOrder":12,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-47.99993133544922,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-6964321227627638600,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"53c978e3-1290-4530-8631-036e1224da8a","computeOrder":12,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-47.99993133544922,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-6964321227627638600,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"c341a6e7-2041-4f5f-8761-0a9d1ec00fe0","computeOrder":14,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-449.0,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":2634847553383115062,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"c341a6e7-2041-4f5f-8761-0a9d1ec00fe0","computeOrder":14,"position":{"serializedVersion":"2","x":1950.337646484375,"y":-449.0,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":2634847553383115062,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1590,7 +1590,7 @@ MonoBehaviour:
       Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"076e0eb2-58d8-4aa6-8487-cb8c217a7854","computeOrder":35,"position":{"serializedVersion":"2","x":2224.337646484375,"y":140.00001525878907,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-6540900301157680239,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"076e0eb2-58d8-4aa6-8487-cb8c217a7854","computeOrder":36,"position":{"serializedVersion":"2","x":2224.337646484375,"y":140.00001525878907,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":-6540900301157680239,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1603,12 +1603,12 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"19c8d1d7-2683-45c4-8b72-5bf6b7801f9b","computeOrder":11,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-862.9998779296875,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-7040507565910038594,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"19c8d1d7-2683-45c4-8b72-5bf6b7801f9b","computeOrder":11,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-862.9998779296875,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-7040507565910038594,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.NormalRotate, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"b787be26-750c-4c8b-b5de-415d8ca95513","computeOrder":9,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-236.99984741210938,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":1693345474023573324,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
+    jsonDatas: '{"GUID":"b787be26-750c-4c8b-b5de-415d8ca95513","computeOrder":9,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-236.99984741210938,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"08ce3b36cf9f41c4085eed0e6cefa959","type":3},"material":{"fileID":1693345474023573324,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
       Map","referenceName":"Texture2D_95AB7B17","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Rotation
       Map","referenceName":"Texture2D_92e0578231b74b3bad71d945d017278d","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1616,13 +1616,13 @@ MonoBehaviour:
       In Degree","referenceName":"Vector1_D0B32F70","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"08ce3b36cf9f41c4085eed0e6cefa959"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"9acf1df8-fbc0-4e50-8aa9-2d69b8f8f5ad","computeOrder":8,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-47.999855041503909,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":7653759882902135137,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"9acf1df8-fbc0-4e50-8aa9-2d69b8f8f5ad","computeOrder":8,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-47.999855041503909,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":7653759882902135137,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"787510a9-3ede-4733-8b10-0dded6fac55d","computeOrder":10,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-448.9998474121094,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-799211862510387233,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"787510a9-3ede-4733-8b10-0dded6fac55d","computeOrder":10,"position":{"serializedVersion":"2","x":2262.008056640625,"y":-448.9998474121094,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-799211862510387233,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1630,7 +1630,7 @@ MonoBehaviour:
       Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"c2eae355-d07c-4308-ab7e-8b6df31b3d99","computeOrder":36,"position":{"serializedVersion":"2","x":2536.008056640625,"y":140.0001220703125,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":747196646854993481,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"c2eae355-d07c-4308-ab7e-8b6df31b3d99","computeOrder":37,"position":{"serializedVersion":"2","x":2536.008056640625,"y":140.0001220703125,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":747196646854993481,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1643,12 +1643,12 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"a7b1ada1-45b4-47e2-a9a0-44628dc7c85d","computeOrder":7,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-1095.000244140625,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-5700802318014033639,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"a7b1ada1-45b4-47e2-a9a0-44628dc7c85d","computeOrder":7,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-1095.000244140625,"width":250.0,"height":399.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-5700802318014033639,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.NormalRotate, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"efb95426-d637-4b41-b8f8-b4b047654f31","computeOrder":4,"position":{"serializedVersion":"2","x":3029.360107421875,"y":-237.0000762939453,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-6895213735793498777,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
+    jsonDatas: '{"GUID":"efb95426-d637-4b41-b8f8-b4b047654f31","computeOrder":4,"position":{"serializedVersion":"2","x":3029.360107421875,"y":-237.0000762939453,"width":250.0,"height":184.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"08ce3b36cf9f41c4085eed0e6cefa959","type":3},"material":{"fileID":-6895213735793498777,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Normal
       Map","referenceName":"Texture2D_95AB7B17","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Rotation
       Map","referenceName":"Texture2D_92e0578231b74b3bad71d945d017278d","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1656,13 +1656,13 @@ MonoBehaviour:
       In Degree","referenceName":"Vector1_D0B32F70","tooltip":"","type":{"serializedType":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"08ce3b36cf9f41c4085eed0e6cefa959"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"2d682c2d-5411-44ee-8f3d-812edca74f11","computeOrder":3,"position":{"serializedVersion":"2","x":3029.360107421875,"y":-48.000022888183597,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-477465792262865090,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"2d682c2d-5411-44ee-8f3d-812edca74f11","computeOrder":3,"position":{"serializedVersion":"2","x":3029.360107421875,"y":-48.000022888183597,"width":250.0,"height":160.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-477465792262865090,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"3a1b5517-7c25-4bc1-b6ba-e96aee0b3080","computeOrder":6,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-681.000244140625,"width":250.0,"height":217.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-2477373703106773199,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"3a1b5517-7c25-4bc1-b6ba-e96aee0b3080","computeOrder":6,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-681.000244140625,"width":250.0,"height":217.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-2477373703106773199,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1670,7 +1670,7 @@ MonoBehaviour:
       Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"b8dfcdc1-4af4-478c-a26b-554bf19d0dc4","computeOrder":39,"position":{"serializedVersion":"2","x":3303.35986328125,"y":140.0,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":6704374348225861135,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"b8dfcdc1-4af4-478c-a26b-554bf19d0dc4","computeOrder":40,"position":{"serializedVersion":"2","x":3303.35986328125,"y":140.0,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":6704374348225861135,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1683,17 +1683,17 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"b66444e7-f2aa-40d9-95b8-045b59fe4514","computeOrder":38,"position":{"serializedVersion":"2","x":2936.699951171875,"y":140.00001525878907,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-3208233757912267923,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"b66444e7-f2aa-40d9-95b8-045b59fe4514","computeOrder":39,"position":{"serializedVersion":"2","x":2936.699951171875,"y":140.00001525878907,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-3208233757912267923,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"71b61d9a-e348-4058-9d5f-95a1b1be2139","computeOrder":37,"position":{"serializedVersion":"2","x":2661.00048828125,"y":661.9501342773438,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-85217683888255623,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"71b61d9a-e348-4058-9d5f-95a1b1be2139","computeOrder":38,"position":{"serializedVersion":"2","x":2661.00048828125,"y":661.9501342773438,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-85217683888255623,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"c0e9fef4-4809-43d5-b21a-12f48b4867af","computeOrder":5,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-449.00018310546877,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":8620503699905254993,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
+    jsonDatas: '{"GUID":"c0e9fef4-4809-43d5-b21a-12f48b4867af","computeOrder":5,"position":{"serializedVersion":"2","x":3029.00048828125,"y":-449.00018310546877,"width":250.0,"height":202.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":true,"previewMode":15,"previewMip":0.0,"previewVisible":false,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":8620503699905254993,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source
       A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
       B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
@@ -1701,17 +1701,17 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
   - type: Mixture.TextureSampleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"a8b5c98e-2ae6-4bc4-bea5-5f4c279697ec","computeOrder":41,"position":{"serializedVersion":"2","x":3681.958251953125,"y":140.0,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-2602505043682197269,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"a8b5c98e-2ae6-4bc4-bea5-5f4c279697ec","computeOrder":42,"position":{"serializedVersion":"2","x":3681.958251953125,"y":140.0,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"2177843ae41a2a34f8dc46594eb788fa","type":3},"material":{"fileID":-2602505043682197269,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV","referenceName":"_UV_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"2177843ae41a2a34f8dc46594eb788fa"}'
   - type: Mixture.UVNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"e4e458e1-0dca-455d-8769-699a108a892e","computeOrder":40,"position":{"serializedVersion":"2","x":3303.0,"y":641.0,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-4061638429748905296,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
+    jsonDatas: '{"GUID":"e4e458e1-0dca-455d-8769-699a108a892e","computeOrder":41,"position":{"serializedVersion":"2","x":3303.0,"y":641.0,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"0e57459cc2eca8e4eb3e062b8ed60321","type":3},"material":{"fileID":-4061638429748905296,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"UV
       Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"UV
       Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"0e57459cc2eca8e4eb3e062b8ed60321"}'
   - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-    jsonDatas: '{"GUID":"59bcdcd8-f01a-4153-a1ab-489513f645c3","computeOrder":43,"position":{"serializedVersion":"2","x":4142.6025390625,"y":140.00001525878907,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":3836843423480424193,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+    jsonDatas: '{"GUID":"59bcdcd8-f01a-4153-a1ab-489513f645c3","computeOrder":44,"position":{"serializedVersion":"2","x":4142.6025390625,"y":140.00001525878907,"width":250.0,"height":501.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":3836843423480424193,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
@@ -1724,7 +1724,7 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
   - type: Mixture.RectanglesNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
-    jsonDatas: '{"GUID":"04582c52-09f9-4d3c-a1b3-e9eb238465c4","computeOrder":42,"position":{"serializedVersion":"2","x":3682.0,"y":539.0,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"instanceID":0},"material":{"fileID":-5491749367648931706,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+    jsonDatas: '{"GUID":"04582c52-09f9-4d3c-a1b3-e9eb238465c4","computeOrder":43,"position":{"serializedVersion":"2","x":3682.0,"y":539.0,"width":250.0,"height":543.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"92d8c97c0c0de6a41a986ea9d3291139","type":3},"material":{"fileID":-5491749367648931706,"guid":"aa5ac200271e8c2459d36a731c77eae5","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_BBDDEF19","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_69B370C1","tooltip":"","type":{"serializedType":"UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"InnerSize","referenceName":"Vector3_90ab8e0cfccc42ff933ee0f553788f88","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Smooth","referenceName":"Vector1_80b6ea8c66f74c7b90cdad44939e757c","tooltip":"","type":{"serializedType":"System.Single,
@@ -2227,7 +2227,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2288,7 +2288,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2349,7 +2349,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce3b36cf9f41c4085eed0e6cefa959,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2392,7 +2393,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: bd0e9b179d9b69e4f9a0f98d347bee62, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2430,7 +2431,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2489,7 +2490,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: d5d8cf3f4ee4f2d4283ca198b776e3af,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2529,7 +2531,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2587,7 +2589,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2648,7 +2650,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 92d8c97c0c0de6a41a986ea9d3291139,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2688,7 +2691,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 92d8c97c0c0de6a41a986ea9d3291139,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2728,7 +2732,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2764,7 +2768,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2823,7 +2827,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2884,7 +2888,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 0e57459cc2eca8e4eb3e062b8ed60321, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2920,7 +2924,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 2177843ae41a2a34f8dc46594eb788fa, type: 3}
   m_ShaderKeywords: CRT_2D USE_CUSTOM_UV
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -2978,7 +2982,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: c1f8bac2a6637264ea45079cfa2c04e8, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -3013,7 +3017,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -3072,7 +3076,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ce3b36cf9f41c4085eed0e6cefa959,
+    type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -3115,7 +3120,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hidden/Mixture/ShaderNodeDefault
-  m_Shader: {fileID: 0}
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
   m_ShaderKeywords: CRT_2D
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
