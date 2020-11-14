@@ -1,0 +1,2404 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &-7687970587237426092
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 423c5740bee720241a593eb459426694, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors:
+    - _Bias: {r: -0.11, g: -0.11, b: -0.11, a: -0.11}
+    - _Scale: {r: 1.11, g: 0.11, b: 0.11, a: 0.11}
+  m_BuildTextureStacks: []
+--- !u!21 &-7434624927178195961
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: -6465566751694194690, guid: 3af7a795a79964049822bf16fe8c795c,
+    type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Radius: 0
+    - _Rotation: 0
+    - _Smooth: 0.5
+    m_Colors:
+    - Color_0b800f21b7834f34b2f8fccb70497644: {r: 1, g: 1, b: 1, a: 1}
+    - Color_4e4ca9b8331044a7a521f153309b8fa0: {r: 0, g: 0, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Scale: {r: 2, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-7068039039937452496
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: -6465566751694194690, guid: 3af7a795a79964049822bf16fe8c795c,
+    type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Radius: 0
+    - _Rotation: 90
+    - _Smooth: 0.5
+    m_Colors:
+    - Color_0b800f21b7834f34b2f8fccb70497644: {r: 1, g: 1, b: 1, a: 1}
+    - Color_4e4ca9b8331044a7a521f153309b8fa0: {r: 0, g: 0, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Scale: {r: 2, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-6021297322520045920
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: -6465566751694194690, guid: 75923948df229774eb300177bbacf7fd,
+    type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_57b7100bec754f529b033e37df7a2628: 0
+    - Vector1_8899A76B: 2
+    - Vector1_96E1DD6C: 2
+    - Vector1_ba722c82350f48fa91f1c399574876c4: 4
+    m_Colors:
+    - Color_5CCCD6B7: {r: 1, g: 1, b: 1, a: 1}
+    - Color_C14C79E4: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-5833000806639960244
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 423c5740bee720241a593eb459426694, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors:
+    - _Bias: {r: 0, g: 0, b: 0, a: 0}
+    - _Scale: {r: 0.5, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-5426429350801931180
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &-4680307996203747270
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Mask_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendMode: 0
+    - _MaskMode: 1
+    - _Opacity: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &-4440621456435965194
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0.25, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-3018725298930367252
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0.25, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-2621409406069527129
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &-2312809561221194614
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &-2293699915012323988
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: -1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &-1896618425846742936
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: bd0e9b179d9b69e4f9a0f98d347bee62, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Channel: 0
+    - _Feather: 0.01
+    - _Invert: 0
+    - _Threshold: 0.02
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &-587051111774492336
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: c1f8bac2a6637264ea45079cfa2c04e8, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Radius: 3.87
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &-289807241007406031
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 4c38089cecadf714bbabc313d575804d, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Input_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Input_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Input_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b113f958e0564f309164e29c24b042d, type: 3}
+  m_Name: 14 Art Deco 02 Thread
+  m_EditorClassIdentifier: 
+  serializedNodes:
+  - type: Mixture.OutputNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"20aad9a2-f45b-443d-9f30-0287577d108c","computeOrder":35,"position":{"serializedVersion":"2","x":3719.207275390625,"y":2.0001144409179689,"width":350.0,"height":527.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":0.0,"heightPercent":0.0,"depthPercent":0.0,"width":128,"height":128,"sliceCount":128,"potSize":128,"widthMode":1,"heightMode":1,"depthMode":1,"dimension":2,"outputChannels":1,"outputPrecision":2,"editFlags":981,"doubleBuffered":false,"wrapMode":0,"filterMode":2,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":7,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"outputTextureSettings":[{"inputTexture":{"instanceID":0},"name":"Main
+      Texture","enableCompression":true,"compressionFormat":25,"compressionQuality":100,"hasMipMaps":true,"customMipMapShader":{"instanceID":0},"isMain":true,"enableConversion":false,"conversionFormat":0,"finalCopyMaterial":{"fileID":7004540967644844827,"guid":"c948059712bb80b4a8d7d30528598463","type":2}}]}'
+  - type: Mixture.Lines, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"d4f3aada-9916-4709-866f-6bfc3be32161","computeOrder":1,"position":{"serializedVersion":"2","x":-691.2705688476563,"y":75.26239013671875,"width":250.0,"height":545.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"3af7a795a79964049822bf16fe8c795c","type":3},"material":{"fileID":-7434624927178195961,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_0b800f21b7834f34b2f8fccb70497644","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_4e4ca9b8331044a7a521f153309b8fa0","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Smooth","referenceName":"_Smooth","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Rotation
+      (Deg)","referenceName":"_Rotation","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"3af7a795a79964049822bf16fe8c795c"}'
+  - type: Mixture.Lines, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"d392c2a7-d821-4ea0-a922-bd8733916a74","computeOrder":10,"position":{"serializedVersion":"2","x":-691.0001220703125,"y":620.0000610351563,"width":250.0,"height":545.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"3af7a795a79964049822bf16fe8c795c","type":3},"material":{"fileID":-7068039039937452496,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"InnerColor","referenceName":"Color_0b800f21b7834f34b2f8fccb70497644","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"OuterColor","referenceName":"Color_4e4ca9b8331044a7a521f153309b8fa0","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Smooth","referenceName":"_Smooth","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Rotation
+      (Deg)","referenceName":"_Rotation","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"3af7a795a79964049822bf16fe8c795c"}'
+  - type: Mixture.CheckerBoard, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"1aadbbbb-7793-4bc7-9954-fa28a24a9248","computeOrder":13,"position":{"serializedVersion":"2","x":-690.9998779296875,"y":1164.999755859375,"width":250.0,"height":613.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"75923948df229774eb300177bbacf7fd","type":3},"material":{"fileID":-6021297322520045920,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Even
+      Color","referenceName":"Color_5CCCD6B7","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Odd
+      Color","referenceName":"Color_C14C79E4","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"X
+      Cell Count","referenceName":"Vector1_8899A76B","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Y
+      Cell Count","referenceName":"Vector1_96E1DD6C","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Z
+      Cell Count","referenceName":"Vector1_ba722c82350f48fa91f1c399574876c4","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Smooth","referenceName":"Vector1_57b7100bec754f529b033e37df7a2628","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"75923948df229774eb300177bbacf7fd"}'
+  - type: Mixture.FloatNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"c020aae9-6b07-4205-99bc-10ba296b125f","computeOrder":5,"position":{"serializedVersion":"2","x":-1047.4373779296875,"y":-259.64007568359377,"width":150.0,"height":103.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"Float":-0.10999999940395355}'
+  - type: Mixture.ScaleBiasNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"38f70b92-cff0-4a4b-84f0-3fb4be5b76bd","computeOrder":7,"position":{"serializedVersion":"2","x":-244.00006103515626,"y":-903.8767700195313,"width":250.0,"height":441.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"423c5740bee720241a593eb459426694","type":3},"material":{"fileID":-7687970587237426092,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"423c5740bee720241a593eb459426694"}'
+  - type: Mixture.VectorSubNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"130e8aa8-8e15-4a92-a4f1-17a7cf92543a","computeOrder":6,"position":{"serializedVersion":"2","x":-756.0,"y":-587.0,"width":100.0,"height":106.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"a":{"x":1.0,"y":0.0,"z":0.0,"w":0.0},"b":{"x":-0.10999999940395355,"y":-0.10999999940395355,"z":-0.10999999940395355,"w":-0.10999999940395355},"o":{"x":1.1100000143051148,"y":0.10999999940395355,"z":0.10999999940395355,"w":0.10999999940395355}}'
+  - type: Mixture.ScaleBiasNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"39e565c5-b0c2-44af-a59a-77d7a0b1d1c5","computeOrder":23,"position":{"serializedVersion":"2","x":-244.00006103515626,"y":-462.87677001953127,"width":250.0,"height":441.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"423c5740bee720241a593eb459426694","type":3},"material":{"fileID":8747892011376586487,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"423c5740bee720241a593eb459426694"}'
+  - type: Mixture.ScaleBiasNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"1d08ced7-5372-4464-8084-f98e7a3b0d6e","computeOrder":9,"position":{"serializedVersion":"2","x":80.94996643066406,"y":-980.0000610351563,"width":250.0,"height":517.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"423c5740bee720241a593eb459426694","type":3},"material":{"fileID":7405001138705893646,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"423c5740bee720241a593eb459426694"}'
+  - type: Mixture.ScaleBiasNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"c9faaad1-a5d9-4bdc-81a9-9099cc9f5188","computeOrder":25,"position":{"serializedVersion":"2","x":80.99987030029297,"y":-463.0,"width":250.0,"height":517.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"423c5740bee720241a593eb459426694","type":3},"material":{"fileID":-5833000806639960244,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"423c5740bee720241a593eb459426694"}'
+  - type: Mixture.ScaleBiasNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"11376aa5-8786-4c63-a036-1a39c62baa08","computeOrder":14,"position":{"serializedVersion":"2","x":-247.30751037597657,"y":1229.9249267578125,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":3,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"423c5740bee720241a593eb459426694","type":3},"material":{"fileID":864912752048878843,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Texture","referenceName":"_Texture_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Scale","referenceName":"_Scale","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Bias","referenceName":"_Bias","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"423c5740bee720241a593eb459426694"}'
+  - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"6918e026-8d74-4adc-97ef-06a1d1905129","computeOrder":15,"position":{"serializedVersion":"2","x":133.45748901367188,"y":750.032470703125,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":4,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":-5426429350801931180,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
+  - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"4e560efd-6072-4dd1-ae02-fd31c2d5d50f","computeOrder":17,"position":{"serializedVersion":"2","x":973.2468872070313,"y":-438.9562683105469,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-2312809561221194614,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"Additional
+      Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
+  - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"7be5038c-dda0-4c11-8011-d7dc58d757ff","computeOrder":26,"position":{"serializedVersion":"2","x":132.99996948242188,"y":105.4175033569336,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":4,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":-2293699915012323988,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
+  - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"7f8a5afa-9f0c-420e-8daa-0ebdb2ca3f18","computeOrder":28,"position":{"serializedVersion":"2","x":972.9999389648438,"y":20.0,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":5167799797095768118,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"Additional
+      Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
+  - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"0f1102be-005e-4b14-8414-2c75fc8a5d50","computeOrder":36,"position":{"serializedVersion":"2","x":973.0,"y":-897.9998779296875,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":6888248324271155391,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"Additional
+      Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
+  - type: Mixture.ThresholdNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"66ccbec2-489a-4b34-9d29-fb0cf42f6ac7","computeOrder":8,"position":{"serializedVersion":"2","x":1526.7529296875,"y":-897.9998779296875,"width":250.0,"height":525.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"bd0e9b179d9b69e4f9a0f98d347bee62","type":3},"material":{"fileID":-1896618425846742936,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Channel","referenceName":"_Channel","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Threshold","referenceName":"_Threshold","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Feather","referenceName":"_Feather","tooltip":"Smooth
+      the treshold step","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Invert","referenceName":"_Invert","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"bd0e9b179d9b69e4f9a0f98d347bee62"}'
+  - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"d32eab55-5e5d-466c-ac9f-c8e5e6a96d2b","computeOrder":18,"position":{"serializedVersion":"2","x":1905.5338134765625,"y":-457.4700012207031,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":3969659012701203617,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
+  - type: Mixture.NormalFromHeight, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"0272c6c1-cdec-4bd1-9f7a-e4b2f2704744","computeOrder":21,"position":{"serializedVersion":"2","x":2694.000244140625,"y":-481.5000305175781,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":1,"outputPrecision":0,"editFlags":-321,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"7cad23c262a495a4ba607510a558c0a6","type":3},"material":{"fileID":7490742534370369085,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Height
+      Map","referenceName":"Texture2D_B5DB8B20","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Strenght","referenceName":"Vector1_C30F1996","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"7cad23c262a495a4ba607510a558c0a6"}'
+  - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"eef04d2d-c631-484b-a297-d86432175d63","computeOrder":16,"position":{"serializedVersion":"2","x":480.0050048828125,"y":730.0,"width":250.0,"height":479.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-4440621456435965194,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"Additional
+      Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
+  - type: Mixture.AddNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"6f77b876-7189-4327-944d-9cd3766ce888","computeOrder":27,"position":{"serializedVersion":"2","x":479.9999694824219,"y":105.0,"width":250.0,"height":479.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"30368c84ef4f1eb4d900c9b34b8c58ce","type":3},"material":{"fileID":-3018725298930367252,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"Input A","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"Input B","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"Additional
+      Value","type":{"serializedType":"UnityEngine.Vector4, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"30368c84ef4f1eb4d900c9b34b8c58ce"}'
+  - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"5d6fab23-4fc6-4960-8d27-e2b679816354","computeOrder":29,"position":{"serializedVersion":"2","x":1906.0,"y":104.99996948242188,"width":250.0,"height":459.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":7880307417592599113,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
+  - type: Mixture.NormalFromHeight, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"a550c529-8f4f-4e55-b364-83be04439d2f","computeOrder":31,"position":{"serializedVersion":"2","x":2694.0,"y":79.99996948242188,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":2,"outputChannels":0,"outputPrecision":0,"editFlags":-321,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":-6465566751694194690,"guid":"7cad23c262a495a4ba607510a558c0a6","type":3},"material":{"fileID":6510926384769594145,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Height
+      Map","referenceName":"Texture2D_B5DB8B20","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Strenght","referenceName":"Vector1_C30F1996","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"7cad23c262a495a4ba607510a558c0a6"}'
+  - type: Mixture.ThresholdNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"32a07f7c-418e-494b-b259-56448860c520","computeOrder":24,"position":{"serializedVersion":"2","x":1527.0,"y":-327.49993896484377,"width":250.0,"height":525.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"bd0e9b179d9b69e4f9a0f98d347bee62","type":3},"material":{"fileID":5505801469932115824,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Channel","referenceName":"_Channel","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Threshold","referenceName":"_Threshold","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Feather","referenceName":"_Feather","tooltip":"Smooth
+      the treshold step","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Invert","referenceName":"_Invert","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"bd0e9b179d9b69e4f9a0f98d347bee62"}'
+  - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"6e991e66-98b4-489b-85bc-4d252b37e3a0","computeOrder":34,"position":{"serializedVersion":"2","x":3230.414306640625,"y":-82.20326232910156,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":463040150947389600,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
+      of the Blend, 0 means that only Source is visible and 1 that only Target is
+      visible","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Blend Mode","referenceName":"_BlendMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Mask
+      Mode","referenceName":"_MaskMode","tooltip":"Select which channel is used to
+      sample the mask value","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
+  - type: Mixture.MulNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"ad8f7bfc-e0a0-4713-8f9b-c3c00e683303","computeOrder":32,"position":{"serializedVersion":"2","x":2074.017578125,"y":893.2346801757813,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"535eef2511f2f5540b6c9cc7430067f4","type":3},"material":{"fileID":-2621409406069527129,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"535eef2511f2f5540b6c9cc7430067f4"}'
+  - type: Mixture.SubNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"ff576b45-f265-45eb-bd27-28aee33080a9","computeOrder":33,"position":{"serializedVersion":"2","x":2401.3330078125,"y":810.6410522460938,"width":100.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"47633e2c0f07a004eae77b0445ed0bd5","type":3},"material":{"fileID":6346805925181881799,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source
+      A","referenceName":"_SourceA_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Source
+      B","referenceName":"_SourceB_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Value","referenceName":"_Value","tooltip":"","type":{"serializedType":"UnityEngine.Vector4,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"47633e2c0f07a004eae77b0445ed0bd5"}'
+  - type: Mixture.Blur, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"cfed66d4-28cd-4501-88f6-66a602c8f4fd","computeOrder":20,"position":{"serializedVersion":"2","x":2303.7001953125,"y":-457.0000915527344,"width":250.0,"height":432.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":4,"editFlags":-257,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"c1f8bac2a6637264ea45079cfa2c04e8","type":3},"material":{"fileID":4070417111020440160,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"Source
+      Texture","type":{"serializedType":"UnityEngine.Texture2D, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"Blur
+      radius in pixels","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"c1f8bac2a6637264ea45079cfa2c04e8"}'
+  - type: Mixture.Blur, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"8167ba2c-9e1a-4e3b-8e07-cad192e2b111","computeOrder":30,"position":{"serializedVersion":"2","x":2304.000244140625,"y":118.44998168945313,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":4,"editFlags":-257,"doubleBuffered":true,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"c1f8bac2a6637264ea45079cfa2c04e8","type":3},"material":{"fileID":-587051111774492336,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"Source
+      Texture","type":{"serializedType":"UnityEngine.Texture2D, UnityEngine.CoreModule,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Radius","referenceName":"_Radius","tooltip":"Blur
+      radius in pixels","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"c1f8bac2a6637264ea45079cfa2c04e8"}'
+  - type: Mixture.FloatNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"42e4d8b6-cf2b-406f-acc8-87ac3acfd6e2","computeOrder":19,"position":{"serializedVersion":"2","x":2154.000244140625,"y":-603.2802124023438,"width":150.0,"height":103.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"Float":3.869999885559082}'
+  - type: Mixture.BlendNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"301591eb-29fc-4737-bd66-e64f1b67d51b","computeOrder":22,"position":{"serializedVersion":"2","x":3152.650634765625,"y":-666.9500122070313,"width":250.0,"height":521.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"5d69ff00d9a32944ea012824393d489a","type":3},"material":{"fileID":-4680307996203747270,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Source","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Target","referenceName":"_Target_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mask","referenceName":"_Mask_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Opacity","referenceName":"_Opacity","tooltip":"Opacity
+      of the Blend, 0 means that only Source is visible and 1 that only Target is
+      visible","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Blend Mode","referenceName":"_BlendMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Mask
+      Mode","referenceName":"_MaskMode","tooltip":"Select which channel is used to
+      sample the mask value","type":{"serializedType":"System.Single, mscorlib, Version=4.0.0.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"5d69ff00d9a32944ea012824393d489a"}'
+  - type: Mixture.ColorMatteNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"7760d4d3-a5b5-4d2e-afb8-b2ffe83efe7b","computeOrder":0,"position":{"serializedVersion":"2","x":2785.8291015625,"y":-766.9998779296875,"width":250.0,"height":100.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"c9fe3de6e0f2f1d4b8d8afc805f4ca22","type":3},"material":{"fileID":6844481074593144963,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Color","referenceName":"_Color","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"c9fe3de6e0f2f1d4b8d8afc805f4ca22"}'
+  - type: Mixture.SwizzleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"07eb540c-6588-4927-a0a2-3670b5bce94b","computeOrder":2,"position":{"serializedVersion":"2","x":-1498.7449951171875,"y":-38.000030517578128,"width":250.0,"height":517.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"8337319f84fab2b4d8243836e6201c22","type":3},"material":{"fileID":2112175649410286334,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Output
+      Red","referenceName":"_RMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Green","referenceName":"_GMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Blue","referenceName":"_BMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Alpha","referenceName":"_AMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Custom","referenceName":"_Custom","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"8337319f84fab2b4d8243836e6201c22"}'
+  - type: Mixture.RemapNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"8ea099c1-d178-4821-905a-cce1b05012c3","computeOrder":4,"position":{"serializedVersion":"2","x":-1219.1834716796875,"y":-38.000003814697269,"width":250.0,"height":437.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"4c38089cecadf714bbabc313d575804d","type":3},"material":{"fileID":9041693204969514687,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Input_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Map","referenceName":"_Map","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"4c38089cecadf714bbabc313d575804d"}'
+  - type: Mixture.CurveNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"5e1e5a0a-c840-442c-8cec-3659dbc92848","computeOrder":3,"position":{"serializedVersion":"2","x":-1875.1475830078125,"y":262.5,"width":250.0,"height":233.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":0,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"texture":{"instanceID":0},"mode":0,"redCurve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":2.0,"outSlope":2.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":1.0,"value":1.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4},"greenCurve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":1.0,"value":1.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4},"blueCurve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":1.0,"value":1.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4},"alphaCurve":{"serializedVersion":"2","m_Curve":[{"serializedVersion":"3","time":0.0,"value":0.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0},{"serializedVersion":"3","time":1.0,"value":1.0,"inSlope":0.0,"outSlope":0.0,"tangentMode":0,"weightedMode":0,"inWeight":0.0,"outWeight":0.0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4}}'
+  - type: Mixture.SwizzleNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    jsonDatas: '{"GUID":"93ec2a97-c378-4234-ae4d-f247024ad804","computeOrder":11,"position":{"serializedVersion":"2","x":-1499.0,"y":459.0,"width":250.0,"height":497.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":0,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"8337319f84fab2b4d8243836e6201c22","type":3},"material":{"fileID":5625444952501724008,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Source_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Output
+      Red","referenceName":"_RMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Green","referenceName":"_GMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Blue","referenceName":"_BMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Output
+      Alpha","referenceName":"_AMode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}},{"displayName":"Custom","referenceName":"_Custom","tooltip":"","type":{"serializedType":"UnityEngine.Color,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}}],"shaderGUID":"8337319f84fab2b4d8243836e6201c22"}'
+  - type: Mixture.RemapNode, Mixture.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    jsonDatas: '{"GUID":"6907260b-1a72-4738-b367-193f4fafa425","computeOrder":12,"position":{"serializedVersion":"2","x":-1219.0,"y":459.0,"width":250.0,"height":417.0},"expanded":false,"debug":false,"nodeLock":false,"rtSettings":{"widthPercent":1.0,"heightPercent":1.0,"depthPercent":1.0,"width":512,"height":512,"sliceCount":1,"potSize":0,"widthMode":0,"heightMode":0,"depthMode":0,"dimension":0,"outputChannels":3,"outputPrecision":0,"editFlags":-257,"doubleBuffered":false,"wrapMode":0,"filterMode":1,"refreshMode":0,"period":0.0},"isPreviewCollapsed":false,"previewMode":15,"previewMip":0.0,"previewVisible":true,"previewEV100":0.0,"previewSlice":0.0,"isPinned":false,"output":{"instanceID":0},"shader":{"fileID":4800000,"guid":"4c38089cecadf714bbabc313d575804d","type":3},"material":{"fileID":-289807241007406031,"guid":"c948059712bb80b4a8d7d30528598463","type":2},"exposedProperties":[{"displayName":"Input","referenceName":"_Input_2D","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Map","referenceName":"_Map","tooltip":"","type":{"serializedType":"UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"}},{"displayName":"Mode","referenceName":"_Mode","tooltip":"","type":{"serializedType":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"}}],"shaderGUID":"4c38089cecadf714bbabc313d575804d"}'
+  edges:
+  - GUID: 192b6ee5-51ac-435a-ad4f-dac093b6ff08
+    owner: {fileID: 11400000}
+    inputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    outputNodeGUID: c020aae9-6b07-4205-99bc-10ba296b125f
+    inputFieldName: materialInputs
+    outputFieldName: Float
+    inputPortIdentifier: _Bias
+    outputPortIdentifier: 
+  - GUID: 42c272d1-e108-4b24-a481-3a896680ab46
+    owner: {fileID: 11400000}
+    inputNodeGUID: 130e8aa8-8e15-4a92-a4f1-17a7cf92543a
+    outputNodeGUID: c020aae9-6b07-4205-99bc-10ba296b125f
+    inputFieldName: b
+    outputFieldName: Float
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 5cf3ef70-77a4-4d5f-bff9-0a3d59a501d6
+    owner: {fileID: 11400000}
+    inputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    outputNodeGUID: 130e8aa8-8e15-4a92-a4f1-17a7cf92543a
+    inputFieldName: materialInputs
+    outputFieldName: o
+    inputPortIdentifier: _Scale
+    outputPortIdentifier: 
+  - GUID: 3e9f7efa-5a4e-44f8-b7de-9666c390f1cf
+    owner: {fileID: 11400000}
+    inputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    outputNodeGUID: 130e8aa8-8e15-4a92-a4f1-17a7cf92543a
+    inputFieldName: materialInputs
+    outputFieldName: o
+    inputPortIdentifier: _Scale
+    outputPortIdentifier: 
+  - GUID: eba17419-a5ef-4bce-9261-77d8e71d7871
+    owner: {fileID: 11400000}
+    inputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    outputNodeGUID: c020aae9-6b07-4205-99bc-10ba296b125f
+    inputFieldName: materialInputs
+    outputFieldName: Float
+    inputPortIdentifier: _Bias
+    outputPortIdentifier: 
+  - GUID: 009c2c0c-98fe-41ab-bf2b-4844629f77d8
+    owner: {fileID: 11400000}
+    inputNodeGUID: 1d08ced7-5372-4464-8084-f98e7a3b0d6e
+    outputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Texture_2D
+    outputPortIdentifier: output
+  - GUID: 634285d3-571a-445c-98d5-5ac8237f795e
+    owner: {fileID: 11400000}
+    inputNodeGUID: c9faaad1-a5d9-4bdc-81a9-9099cc9f5188
+    outputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Texture_2D
+    outputPortIdentifier: output
+  - GUID: b783674b-2a6a-4455-ade8-169e5e6bd141
+    owner: {fileID: 11400000}
+    inputNodeGUID: 11376aa5-8786-4c63-a036-1a39c62baa08
+    outputNodeGUID: 1aadbbbb-7793-4bc7-9954-fa28a24a9248
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Texture_2D
+    outputPortIdentifier: output
+  - GUID: babf7198-e181-4517-99c1-fa5deca78cc0
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6918e026-8d74-4adc-97ef-06a1d1905129
+    outputNodeGUID: 11376aa5-8786-4c63-a036-1a39c62baa08
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: fbcb4715-d151-455f-8c9c-f15d5f93f775
+    owner: {fileID: 11400000}
+    inputNodeGUID: 4e560efd-6072-4dd1-ae02-fd31c2d5d50f
+    outputNodeGUID: 1d08ced7-5372-4464-8084-f98e7a3b0d6e
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 74db93f8-e0b7-41f0-8036-24be5cbb549e
+    owner: {fileID: 11400000}
+    inputNodeGUID: 7be5038c-dda0-4c11-8011-d7dc58d757ff
+    outputNodeGUID: 11376aa5-8786-4c63-a036-1a39c62baa08
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: bf2d28d2-8177-4920-8ea7-585ebda3e962
+    owner: {fileID: 11400000}
+    inputNodeGUID: 7f8a5afa-9f0c-420e-8daa-0ebdb2ca3f18
+    outputNodeGUID: c9faaad1-a5d9-4bdc-81a9-9099cc9f5188
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 514bd89f-45d7-43c3-b2c5-40dda4a6dec6
+    owner: {fileID: 11400000}
+    inputNodeGUID: 0f1102be-005e-4b14-8414-2c75fc8a5d50
+    outputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 8cc688b6-122e-4831-af7a-049007846df3
+    owner: {fileID: 11400000}
+    inputNodeGUID: 0f1102be-005e-4b14-8414-2c75fc8a5d50
+    outputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: c993e1bf-343e-4eb5-9857-1741d15ec1c7
+    owner: {fileID: 11400000}
+    inputNodeGUID: d32eab55-5e5d-466c-ac9f-c8e5e6a96d2b
+    outputNodeGUID: 66ccbec2-489a-4b34-9d29-fb0cf42f6ac7
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 85c11959-f46d-44c8-b69e-5475b6891ded
+    owner: {fileID: 11400000}
+    inputNodeGUID: d32eab55-5e5d-466c-ac9f-c8e5e6a96d2b
+    outputNodeGUID: 4e560efd-6072-4dd1-ae02-fd31c2d5d50f
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: 51fc6ea7-d826-4287-96ab-7ea945628288
+    owner: {fileID: 11400000}
+    inputNodeGUID: 66ccbec2-489a-4b34-9d29-fb0cf42f6ac7
+    outputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 27adc158-1046-48f3-b80e-aa71949ea712
+    owner: {fileID: 11400000}
+    inputNodeGUID: eef04d2d-c631-484b-a297-d86432175d63
+    outputNodeGUID: 6918e026-8d74-4adc-97ef-06a1d1905129
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 571a90d3-bd59-43e6-ad5c-b2718d5d9deb
+    owner: {fileID: 11400000}
+    inputNodeGUID: 4e560efd-6072-4dd1-ae02-fd31c2d5d50f
+    outputNodeGUID: eef04d2d-c631-484b-a297-d86432175d63
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: f3733c2b-fa9d-487c-83cf-c1d145c7eed5
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6f77b876-7189-4327-944d-9cd3766ce888
+    outputNodeGUID: 7be5038c-dda0-4c11-8011-d7dc58d757ff
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 216ad193-3362-4390-9cf2-7d86ba85403f
+    owner: {fileID: 11400000}
+    inputNodeGUID: 7f8a5afa-9f0c-420e-8daa-0ebdb2ca3f18
+    outputNodeGUID: 6f77b876-7189-4327-944d-9cd3766ce888
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: 658953d6-60ab-4ecc-a4a5-f0930f6a9817
+    owner: {fileID: 11400000}
+    inputNodeGUID: 5d6fab23-4fc6-4960-8d27-e2b679816354
+    outputNodeGUID: 32a07f7c-418e-494b-b259-56448860c520
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: dbcd5ce4-f3de-4f96-ad11-506372793bb8
+    owner: {fileID: 11400000}
+    inputNodeGUID: 32a07f7c-418e-494b-b259-56448860c520
+    outputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 038b89c3-5f73-44ac-854f-2dbcc39f5146
+    owner: {fileID: 11400000}
+    inputNodeGUID: 5d6fab23-4fc6-4960-8d27-e2b679816354
+    outputNodeGUID: 7f8a5afa-9f0c-420e-8daa-0ebdb2ca3f18
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: f4dccd50-86a0-4b7e-9e35-c13f472e9f1b
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6e991e66-98b4-489b-85bc-4d252b37e3a0
+    outputNodeGUID: a550c529-8f4f-4e55-b364-83be04439d2f
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Target_2D
+    outputPortIdentifier: output
+  - GUID: cbd36520-521d-4d60-9a22-63d9c21b953c
+    owner: {fileID: 11400000}
+    inputNodeGUID: ad8f7bfc-e0a0-4713-8f9b-c3c00e683303
+    outputNodeGUID: 1aadbbbb-7793-4bc7-9954-fa28a24a9248
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: c3a8354c-1942-4a66-a917-ba53e31ffa59
+    owner: {fileID: 11400000}
+    inputNodeGUID: ad8f7bfc-e0a0-4713-8f9b-c3c00e683303
+    outputNodeGUID: 66ccbec2-489a-4b34-9d29-fb0cf42f6ac7
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 2d3e1f64-e680-47fb-b4b5-86139e2adb88
+    owner: {fileID: 11400000}
+    inputNodeGUID: ff576b45-f265-45eb-bd27-28aee33080a9
+    outputNodeGUID: 32a07f7c-418e-494b-b259-56448860c520
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 700a8346-28eb-4047-ad8d-802280a7b710
+    owner: {fileID: 11400000}
+    inputNodeGUID: ff576b45-f265-45eb-bd27-28aee33080a9
+    outputNodeGUID: ad8f7bfc-e0a0-4713-8f9b-c3c00e683303
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceB_2D
+    outputPortIdentifier: output
+  - GUID: c68620ac-3a53-4495-8b2a-4fc40b2b518c
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6e991e66-98b4-489b-85bc-4d252b37e3a0
+    outputNodeGUID: ff576b45-f265-45eb-bd27-28aee33080a9
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Mask_2D
+    outputPortIdentifier: output
+  - GUID: efe7682a-dfc7-47bd-a22f-f73786b9999d
+    owner: {fileID: 11400000}
+    inputNodeGUID: 20aad9a2-f45b-443d-9f30-0287577d108c
+    outputNodeGUID: 6e991e66-98b4-489b-85bc-4d252b37e3a0
+    inputFieldName: outputTextureSettings
+    outputFieldName: output
+    inputPortIdentifier: Main Texture
+    outputPortIdentifier: output
+  - GUID: 07ed476a-7513-4e95-9a65-8ac245755d56
+    owner: {fileID: 11400000}
+    inputNodeGUID: cfed66d4-28cd-4501-88f6-66a602c8f4fd
+    outputNodeGUID: d32eab55-5e5d-466c-ac9f-c8e5e6a96d2b
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: a2aa698e-a532-4dd2-b52b-2adc75c7b2e6
+    owner: {fileID: 11400000}
+    inputNodeGUID: 0272c6c1-cdec-4bd1-9f7a-e4b2f2704744
+    outputNodeGUID: cfed66d4-28cd-4501-88f6-66a602c8f4fd
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: Texture2D_B5DB8B20
+    outputPortIdentifier: output
+  - GUID: e6294339-5e33-4df1-9b24-232790948a1f
+    owner: {fileID: 11400000}
+    inputNodeGUID: 8167ba2c-9e1a-4e3b-8e07-cad192e2b111
+    outputNodeGUID: 5d6fab23-4fc6-4960-8d27-e2b679816354
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: a995b3a2-5983-42b2-b105-018fb8b8e30b
+    owner: {fileID: 11400000}
+    inputNodeGUID: a550c529-8f4f-4e55-b364-83be04439d2f
+    outputNodeGUID: 8167ba2c-9e1a-4e3b-8e07-cad192e2b111
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: Texture2D_B5DB8B20
+    outputPortIdentifier: output
+  - GUID: f8f84552-c8ed-4c77-a923-fe0eb06256d3
+    owner: {fileID: 11400000}
+    inputNodeGUID: cfed66d4-28cd-4501-88f6-66a602c8f4fd
+    outputNodeGUID: 42e4d8b6-cf2b-406f-acc8-87ac3acfd6e2
+    inputFieldName: materialInputs
+    outputFieldName: Float
+    inputPortIdentifier: _Radius
+    outputPortIdentifier: 
+  - GUID: 51505327-cac6-4c4e-afa8-079a72cb05e8
+    owner: {fileID: 11400000}
+    inputNodeGUID: 8167ba2c-9e1a-4e3b-8e07-cad192e2b111
+    outputNodeGUID: 42e4d8b6-cf2b-406f-acc8-87ac3acfd6e2
+    inputFieldName: materialInputs
+    outputFieldName: Float
+    inputPortIdentifier: _Radius
+    outputPortIdentifier: 
+  - GUID: 3e00002f-b91c-4a58-bfbb-2a02035645e2
+    owner: {fileID: 11400000}
+    inputNodeGUID: 301591eb-29fc-4737-bd66-e64f1b67d51b
+    outputNodeGUID: 0272c6c1-cdec-4bd1-9f7a-e4b2f2704744
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Target_2D
+    outputPortIdentifier: output
+  - GUID: 035294b8-ec95-4ba5-82ef-b43e054ce5ff
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6e991e66-98b4-489b-85bc-4d252b37e3a0
+    outputNodeGUID: 301591eb-29fc-4737-bd66-e64f1b67d51b
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 24d44a87-1fc7-4543-972d-a7c5a69f5682
+    owner: {fileID: 11400000}
+    inputNodeGUID: 301591eb-29fc-4737-bd66-e64f1b67d51b
+    outputNodeGUID: 66ccbec2-489a-4b34-9d29-fb0cf42f6ac7
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Mask_2D
+    outputPortIdentifier: output
+  - GUID: 5a6b276d-a210-49da-92d1-929274219399
+    owner: {fileID: 11400000}
+    inputNodeGUID: 301591eb-29fc-4737-bd66-e64f1b67d51b
+    outputNodeGUID: 7760d4d3-a5b5-4d2e-afb8-b2ffe83efe7b
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 19f6852d-9882-4450-9a4a-71547b278897
+    owner: {fileID: 11400000}
+    inputNodeGUID: 8ea099c1-d178-4821-905a-cce1b05012c3
+    outputNodeGUID: 07eb540c-6588-4927-a0a2-3670b5bce94b
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Input_2D
+    outputPortIdentifier: output
+  - GUID: 923ef74b-a53e-4423-943b-b7a48a06ec1f
+    owner: {fileID: 11400000}
+    inputNodeGUID: 8ea099c1-d178-4821-905a-cce1b05012c3
+    outputNodeGUID: 5e1e5a0a-c840-442c-8cec-3659dbc92848
+    inputFieldName: materialInputs
+    outputFieldName: texture
+    inputPortIdentifier: _Map
+    outputPortIdentifier: 
+  - GUID: 7116fab7-d3df-42df-9089-4192cb64fa09
+    owner: {fileID: 11400000}
+    inputNodeGUID: 07eb540c-6588-4927-a0a2-3670b5bce94b
+    outputNodeGUID: d4f3aada-9916-4709-866f-6bfc3be32161
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 1c3a27c3-840c-4a09-972d-616f15f58f28
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6907260b-1a72-4738-b367-193f4fafa425
+    outputNodeGUID: 93ec2a97-c378-4234-ae4d-f247024ad804
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Input_2D
+    outputPortIdentifier: output
+  - GUID: e49ad9c4-f67d-4708-a1e8-9e48c6df563b
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6907260b-1a72-4738-b367-193f4fafa425
+    outputNodeGUID: 5e1e5a0a-c840-442c-8cec-3659dbc92848
+    inputFieldName: materialInputs
+    outputFieldName: texture
+    inputPortIdentifier: _Map
+    outputPortIdentifier: 
+  - GUID: 6ed77264-f149-4d82-8fb8-c1d9d93a2e8b
+    owner: {fileID: 11400000}
+    inputNodeGUID: 93ec2a97-c378-4234-ae4d-f247024ad804
+    outputNodeGUID: d392c2a7-d821-4ea0-a922-bd8733916a74
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Source_2D
+    outputPortIdentifier: output
+  - GUID: 53bedb2d-fc5a-4625-9f4e-260b2d48d164
+    owner: {fileID: 11400000}
+    inputNodeGUID: 38f70b92-cff0-4a4b-84f0-3fb4be5b76bd
+    outputNodeGUID: 8ea099c1-d178-4821-905a-cce1b05012c3
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Texture_2D
+    outputPortIdentifier: output
+  - GUID: 37c0dc8a-a1c3-438f-ac86-e6cae88144d5
+    owner: {fileID: 11400000}
+    inputNodeGUID: 7be5038c-dda0-4c11-8011-d7dc58d757ff
+    outputNodeGUID: 8ea099c1-d178-4821-905a-cce1b05012c3
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  - GUID: 130afe50-6d98-4cbc-bf27-29b8be0d7901
+    owner: {fileID: 11400000}
+    inputNodeGUID: 39e565c5-b0c2-44af-a59a-77d7a0b1d1c5
+    outputNodeGUID: 6907260b-1a72-4738-b367-193f4fafa425
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _Texture_2D
+    outputPortIdentifier: output
+  - GUID: fb738578-6976-4660-a399-ab1a966cf82c
+    owner: {fileID: 11400000}
+    inputNodeGUID: 6918e026-8d74-4adc-97ef-06a1d1905129
+    outputNodeGUID: 6907260b-1a72-4738-b367-193f4fafa425
+    inputFieldName: materialInputs
+    outputFieldName: output
+    inputPortIdentifier: _SourceA_2D
+    outputPortIdentifier: output
+  groups: []
+  stackNodes: []
+  pinnedElements: []
+  exposedParameters: []
+  stickyNotes: []
+  position: {x: 246, y: 253, z: 0}
+  scale: {x: 0.375937, y: 0.375937, z: 1}
+  realtimePreview: 0
+  isRealtime: 0
+  isParameterViewOpen: 0
+  embedInBuild: 0
+  objectReferences:
+  - {fileID: 7004540967644844827}
+  - {fileID: -7434624927178195961}
+  - {fileID: -7068039039937452496}
+  - {fileID: -6021297322520045920}
+  - {fileID: -7687970587237426092}
+  - {fileID: 8747892011376586487}
+  - {fileID: 7405001138705893646}
+  - {fileID: -5833000806639960244}
+  - {fileID: 864912752048878843}
+  - {fileID: -5426429350801931180}
+  - {fileID: -2312809561221194614}
+  - {fileID: -2293699915012323988}
+  - {fileID: 5167799797095768118}
+  - {fileID: 6888248324271155391}
+  - {fileID: -1896618425846742936}
+  - {fileID: 3969659012701203617}
+  - {fileID: 7490742534370369085}
+  - {fileID: -4440621456435965194}
+  - {fileID: -3018725298930367252}
+  - {fileID: 7880307417592599113}
+  - {fileID: 6510926384769594145}
+  - {fileID: 5505801469932115824}
+  - {fileID: 463040150947389600}
+  - {fileID: -2621409406069527129}
+  - {fileID: 6346805925181881799}
+  - {fileID: 4070417111020440160}
+  - {fileID: -587051111774492336}
+  - {fileID: -4680307996203747270}
+  - {fileID: 6844481074593144963}
+  - {fileID: 2112175649410286334}
+  - {fileID: 9041693204969514687}
+  - {fileID: 5625444952501724008}
+  - {fileID: -289807241007406031}
+  _mainOutputTexture: {fileID: 3418424056857142813}
+  _outputTextures:
+  - {fileID: 3418424056857142813}
+  - {fileID: 3418424056857142813}
+  references:
+    version: 1
+--- !u!21 &463040150947389600
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 5d69ff00d9a32944ea012824393d489a, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Mask_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Target_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendMode: 0
+    - _MaskMode: 1
+    - _Opacity: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &864912752048878843
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 423c5740bee720241a593eb459426694, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors:
+    - _Bias: {r: -0.25, g: 0, b: 0, a: 0}
+    - _Scale: {r: 0.5, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &2112175649410286334
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 8337319f84fab2b4d8243836e6201c22, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AMode: 6
+    - _BMode: 0
+    - _GMode: 0
+    - _RMode: 0
+    m_Colors:
+    - _Custom: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!28 &3418424056857142813
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 14 Art Deco 02 Thread
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 2
+  m_Width: 128
+  m_Height: 128
+  m_CompleteImageSize: 16384
+  m_MipsStripped: 0
+  m_TextureFormat: 25
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 0
+  m_PlatformBlob: 
+  image data: 16384
+  _typelessdata: 08fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0881c1ef1834feadcce8e1e0e4f42818100944b1e9346eb95d6ff853ad061824148d85f1093d82bfe2b1802bd57ea00dcbff4f6e43a6cac9c9c94155a9faa09bd4ff1fc75bc2cac9c9c90155aaff60ff3f53dbc76bdd01aa54ffe5e4e4e4f8fc7e3f5ff3baddfaf7f93c03aafe07f80081c15ff3caddfaf7f93c02aafe5f60ff3f53dbc7239602aa54ffe5e4e4e4a056f2ff8f8f5bc2cac9c9c90155aaffa069f9ffdf2643a6cac9c9c903556aaf28d4e775fb11fa348ec55f30f853ad0618e0ed77bcb1c92c7abbdbad832bd57ea8e97ffefef117345affcce8d1c8d8dc08fc7ebfdfeff7fbfdffffffafaaaaaa08fc7ebfdfeff7fbfdffffffafaaaaaa08fc0205c1af87e3fd99d7e7f8f878780ac3400c5d86756debba733bb6b9ed001824148c450ef6ca81bfe2b18081d57ea00dcbff4f6ebb55c9c9c9c90100a5fa448c3a4a9dd6d64a8a7bdefb9693cb3760ffffacd4c76bdd010054ffe5e4e4e4d8fc7ebf1f4d3652f9fdf97d03feff01d8008140204d4652fdfd793e00feff0160ffffacd4c72396020054ffe5e4e4e4446aae18d7d6d652c9f3ce779793cb37a069f9ffdf26bb55c9c9c9c901005aaf027aaeefdc857530fcc2813fb0b9ed0606bbbef31d9675aedbb617388949ee36a8ed7ffd7eeed7db59ffcca7dbc8cccc08fc7ebfdfeff7fbfdffffffafaaaaaad8fc7a38de2f5010fc99d7e700feff0bf45f0880b927670ce0d33aabf4fe5501e8201430dd335a006cbdd364d2ff55013a859179682a002e9c9221deffc91640e83830b71e353b008cd7d263caff5501e874563b9fd63b00b8e9d163caff5501e8b878be9f172c00d4ef5163cbff5501d8fc7e3f20182008dc8f51a501feff01d8007fbf1f182008dc8f51a501feff01e80ca340e0f72b00dcebd163c9ff5501e850c3c4a0572b00d0ddd1a3c9ff5501e89ce34921963a00a8c7d263cbff5503e8c8ebcda1344a0084bd5264caff55013afa7e8ae829006e9b92a3fdffdb1200f4fd7f7ec6199f0ca0ce4fabf4fe5501d8fd8cc5e08f2008fcad50e602fc51ffd8fd8e41e38f1018fcadcce801a0eaffec9f9c3180170260eed33aabb4bcbc58281c128bc48b956a69b55c6efbd52e0e782d1a0f46eb746a79bd603078cb34743a07d31c95044d714dc323fe5ddcc114e87856ac0f09b4f9b8e770b6c937363660ffff27538f7fe5015255ffe5e4e4e460ffff276397f7fd0154fffffdfcfcfc60ffff276397ff090254ffffd1d0909060ffff27538f1b8202d454ffe5e4e4e4e850c3e02968f4e1d0ddecb8c83736363af37dcb523541750cd3b3fe144ee55da071faff0fee6a39c9c949490356abaf06bbbeef576561aedbb614b8dbeee637e4fd67ee35e60278a1ca3a3fe5f0f171d8fd70b9de8f2008fcad51e603fc55ff3a5d8675c3400c6debba13fe1eecc11ee8bc58a9d621b14868b55c6ef3b7360e2a1535514461146cebb693e0ffdfb6db3ad56551c450182cebba359a0238a11ce8c06a33d7c1805064b3ddeec9373636e8d8763a9ac1704064b5dd6ecb37363660ffbf01a1f5e2fd0154ffffebe4e4e4e8fc7e3f60a1703868b3deeeadfeab0078fc7e3f60e1703864bddeee01d4bf0660ffbf01a1f5021e0254ffffd5e4e4e4e81493caa2c1803868b3ddaecb373636e8289fd2a5e1a04064b3ddeecab73636e844a9d62922b15068b55c2ec8370e0c60ff7f8291e5a2be02547fff17aebfbfe84ca1516b02915868b75c2ea135365ee8308944e7c170486cb7deeec9373636e8109bcea20191406cb95d6fc8373636283ca305004201d36dbdd3645a5c5c5e0e4461141535516cebb6f337eff20eef08301a9006ca543275bb60aff6525a5240c886e409a3ffff41e951e951fa51e92880402d528793d9acd56f363a3a3e3ae8c0783d580673c1c0e3f1b7ca373636c8fc7ebf1fe672b1c4e371782faefeab08fc7e40e0c562c1c4e170f9e1ab1eaae80ca1cf212683b9c8e1ef38c9373636a849bf5a6b86b3d1b8d56cf7d9cccccc40b2db434287ffff63fb60ea50ea60ea08c0e37379c9843281bdddae5ed8f0d808d0e7767aeaa44271b9d9ad436c6e6c18e8fd2e184ca7484c93ddedf1f1f070e8c8743ad9c180486cb7deeec8373636f8e460af5c42c15880bfe2b1c0c1c13f08b54ea7d6a2f16078bd6030484fb70dd8a04c2513a3016974bb60afae74570308a44e2815e3e15874c1e02ee34b351fd8b066b1d542b16078bf6170cbc9173660ff7f62f1159fcd012854ffe7e4e4e460ff7f62f125dffd0100aa54e9e8e4e4f8fc7ebf1f22a1507cc363f103aafeabf8fc7ec01f22b1507cc3e3f102aafe5560ff7f62f125031e0200aa54e5e4e4e460ff7f62f115335e022854ffe5e4e4f4d830a5d36662c1587cbde0f0cbc937365ee9caaac571142efcba7757e3c6a93e1860b5d96be3f16074bfe0ae8009b37e1854b154e9c2d15874c161af8c2bb55e36a738a2055118ef1bc3311ff3cde00cf8189f506342c15880bfe2b1c8c9c9370a682a008591792e9c92614227f8e26f0ac45018d565512cebba45761a09cd00d8301e8e45ea845275c1e02ecbc93756d84034994709243a89d169b1cbc93736d8805aac8f47d301b1e17236cac93736d8c078bc9706b3e1c4e574b9cac9373660ff3f8613a7fff501aa54ff0303030360ff3f8613a7ff0902aa54ff919090d0d80c9fd02126c3d9c8e172bac9c93736d84cbfe0a9a603eac0d76cb9c9c93736d894df6f33a87412a5c5e234cbc9373642b8aee3536551b0fbc220f663cfb91318d0eb777b8ae55a71b9d9acab29d37c18ecfd2c976cc750489161eff171f170f8c072b89722b1607cc16371cac9c93760ff7fc3426ebb5501aa54ff9190e0e00a95044d07d31c714dc3735b2db9e901409207b209a3ffff11115455999aeeef089440a21344937988d169b1e34bb51e60ffbfe3325e377d01aa54fffbe9e49460ff7fa3426e7fbd01aa54fffbe9e4e460ff3f835276d3f901aa54fffbe9e8e4c0df6f5121bfffff131155559999eeeed8fc7e4020c3518994d1eff500feff0160ff3f835276032602aa54ffe5e4e4e460ff7fa3426e3b7602aa54ffa5e4e4f80840a7596ac3827190d9ebb1e24bb51e085cbb5fed23a38188d5e870e34bb51ec06d18b209a3ffff13015545a999feee1864bdda2a24837988d3ebb1802bd57e60ff7fc3426ea33602aa54ffebe4e4e460ff7fc3426e439e02aa54ffa5e4e4e42850b303800373eb8dd7d2635a5a5c5e281c0c0805ac367365b3ddeef953ad06082c140b066b165b79bf6170e34b951ea08ecbff3f5e377dc9c9c9c9075a6bbfd874562a0e297452b9e97778cac9373660ffff0755cf73e101aa54ffe5e4e4e428f87cbf9fe774f2d8f57afbfb53ad0618fc7ec1a0e774f2d8f57bfb802bd57e60ffff0755cf1f8e02aa54ffe5e4e4e4d850c3e36a88a43ad1dd70fbcac93736d89ce372b469055badc76476cac937360a78aee715965530fcbe6377e52ae90118d4ef797c8b568371bb5a6da02bd57e06fd3f559ac71ce958c7d73f7dd34f3d60ff7fc3426e63b101aa54fffbf4e4e45c5a5b2b29a38e52877bdefb0657d57e2890409b8f67c5fab8e770b6f953ad06e87438990d08d422add56f36eafeab000878341d10a8c5fab0e17236e24bb51e089042275567a5e2b8e97778e24bb51e60ffff2625cf63ad01aa54ffe7e4e4e460ffbf0635dfcbf901aa54fff9e4e4e4d8007f40a0e68322cdedfbbc00feff01d8007f40a0e68322cdedfbbc00feff0160ffbf0635df033202aa54ffe5e4e4e460ffff2625cf539e02aa54ffa5e4e4e40854b15e2d47b5eac0ef7477e24bb51e087cc5e5f087d502b5e5f035e24bb51e188ccd6631a8d502a9ddf0f5802bd57e1880c9dfeda7b5eab0e37477822bd57e60ffff2615c7c74602aa54ffe5e4e4e460ffff2615c757c602aa54ffe5e4e4e42868bd034067b5f3b9e9d1635a5a5c5e28180c07846da7a365b5dd6efb53ad06a089c5ffff159fcdc1c9c9c10355aaffa08dcaff4f6e7fbdc9c9c9c9075aabffa09bd4ff2fcf63adc9c9c9c90355aaff60ffbf8aa6ef67dd01aa54ffe5e4e4e460ffbf8ab6f7f7fd01aa54fffdfcfcfc60ffbf8ab6f7ff0902aa54ffd1d0d0d060ffbf8aa6ef239a02aa54ffe5e4e4e4a056f2ff9f9763adc9c9c9c94155aaffa06af9ffdf267fbdc9c9c9c951a5eaffa074fbff2ffe9ecde9c9c9e94155aaff06fbcef35ad76daecbb2033c9249ce3f18f4ffa1d2ceb7f2448ff4b7f171f17060ffff2615c73fa501aa54ffe5e4e4e4a0b3d2ffdfc76bddc1c1c1c10155aaffa09fccff5f8f7fe5c9d1d1d10155aaff286430170c8cd783c1e3f1b7fa53ad060868301b0e8cc77bc5e574b9e24bb51ea01fd4ff5fcf73e1c9c9c9c90155aaffa02adaffafef67ddc9c9c9c90155aaff60ff3f6bc7ffc7fd01aa54ffe5e4e4e408fc7ebfdf6ab75bf1ff7ffee34bb51e18fc7e40e06ab763f1fffffe812bd57e60ff3f6bc7ff033a02aa54ffe5e4e4e4a0cbeaffdfd767ddc9c9c9c90155aaffa057f0ff9faf73e1c9c9c9c90155aaffa063f3ff3f877fe5c9c9c9c90155aaff189cd1e7338cc783bde171f8812bd57ea066f0ff1faf7fe5a9a9a9a90155aaffa0dbe4ff8fef6bddc9c9c9c90155aaffa04cedffdfc76bddc9c9c9c90155aaff2878c102808be7fbd5ef51635b5a5c5ea006c4ffaff5e2fdf1f1f1f10356aaffa089c5ffff25dffd21212121015aaaffa00ccaff5f76d3f9c9c9c9c9076aabffa01ad4ff3fdfcbf9c9c9c9c90156abffa0acddffcfffc7fdc9c9c9c90155aaff3a1ff87d1cf775ffffff4af2ffb70d0060ff3feef7ffff0902aa54ffd1d0d0d0a0c4e9ffffe7c7fdc9c9c9c90155aaffa0d7f2ffbf9fcbf9c9c9c9c90195eaffa0ebf9ffef2ed3f9c9c9c9c951a9eaffa0f5fbff2ffedefdc9c9c9c901a5aaffa0f7fcffefd5e2fda1a1a1a14195aaff18f4ffa090efc773458ff77af071f170a0a5d9ff8fef6bddc9c9c9c90155aaff08d06423d5eff7fbf9fdf97d7b787878a09fccff6f97f7fdf1f1f1f101ffffff58602e17cbeff7fbc5e37178ffeaeae8a018ceff1fa7fff5c9c9c9c9ff000000e8784e278fcff7fbd9f57afbcb373636a02adaffbff7f7fdc9c9c9c901ffffff0a1cf7751ff87dfffffffa811ff8811f08fc7ebf9feff7f3fdffffffe31f1e1ee8fc80c09fcff7fbfdffffff03fffefe180089c7e3eff7f3fdffffffeb696868e82cabd5a5cff7fbf9f77bffcb373636e863c35eeceff7fbeded783dcac4cbcba0e3f3ff4f8ff7fdc9c9c9c981ffffff18a0d1e7f3eff7fbc5e1f1f8bfbababa1898c9e1f0eff7f3c9e9767bf36968680870abcae7eff7fbe5f7febe7b787878e82cb7dba5cff7fbf9f379ffcb37363608800182c0eff703de8f51a57978787828140a87c3eff7036ab3deee3d3a3a3a1820120ac5eff7fb7dc363f1ebe8e8e8c045e5f723bfffff53e951e951e951e908683e2812f00704ceedfbbc7878787888ac763bdbeff7fbf1ffffffcbc9496808f87ebfdfeff7fbfdffffffbbb8b8b818fc8041e0eff7fbfdffffffc3c0c0c008109353e70ff8fbfdfffc7e7b787878085cb765f0eff7fbedf373fb7b78787840f5fcf77b97ffff71eb70eb70eb70eb18d4ed773bf0f7fb8dc1dfaff3f0f0f0c0bbfef7f366ffff21d320d320d320d308f4fda0ffeff7034695f7e378787878a0a4d9ff9ff7f7fdc9c9c9c901ffffff08d0642415100804fefd793e78787878a09fccff6f97ff09f2f1f1f1010055afd85c2c16ccef0704c6e170f9e9e88e8ea018ceff1fa7ff09cac9c9c9010055eaf8784e27cfef170cdaf57bfbc8c9c937a02adaffbff7ff09cac9c9c9010055ffa0b8dfffffffff09cac9c9c9010055ff08fc7ebfdf2f18fcfdffffffe3e14bb5d00ffeffff07aeaa54ffdfb88ddbb88da0c0e3ffffffff09cac9c9c9010055ffa0cbeaffefdfff09cac9c9c9010055fff860c3612c10180ceeedf63dc8c9c937a0e3f3ff4f8fff09cac9c9c9010055ab18a0d1e7f30f08fcc1e1f1f88381d57e1898c9e1f00f18fcc9e9777beae969710870abca27100804e6f77ebf79787878a0ccedffefcfff09cac9c9c9010055ff0880018200f0f7fbdd8f51a57978787828140c87c30ff8036ab5de6e3d3a3a3e1820120bc5ef07fc7dc3e3f16a69696908301c95c8ef070496d1eff57878787808683e2812f00704ceedfbbc7878787848ac76bbdbeff703f2ffffffc949486828f87cbfdf0f08fcfdfffffffbf9f9adb0ff3ff8ff07cecbcbcbdfb66ddb469208109353e70ff8fbfdfffc7e7b787878085cb765f0eff7fbedf373fb7b78787840f5fcf77b97ffff71eb70eb70eb70eb38d4ed763bf0f7038ec1dfb071303038a8ddf578fc0f08047ab55d6fd8cccccc18f4ff20d0ef1704468ff77bf0f1f171a0a4d9ff9ff7ff09cac9c9c9010055ffa0b3d2ffdfc72396c2c1c1c10155aaffa09fccff5f8f1b82d2d1d1c90155aaff28603298cb10fa1ccae1ef38f953ad060860329ccdf0091dcae172bae14bb51ea01fd4ff5fcf1f8ecac9c9c90155aaffa02adaffafef239acac9c9c90155aaff60ff3f71fae7c7fd01aa54ffe5e4e4e4d8fc80bf1f313975fefffc7e03feff01d8fc80bf1f313975fefffc7e03feff0160ff3f71fae7033a02aa54ffe5e4e4e4a0cbeaffdfd7239acac9c9c90155aaffa057f0ff9faf1f8ecac9c9c90155aaff0890c7e5f310fa1cd2e570b9e14bb51e18a4cfe6f3f0f91cc6dff038832bd57ea066f0ff1faf1b82aaa9a9a90155aaffa0dbe4ff8fef2396cac9c9c90155aaffa04cedffdfc72396cac9c9c90155aaff287cbf02c0300a04deebd163595a5c5ea006c4ffaff5021ef2f1f1f10155a9ffa089c5ffff25031e222121210155aaffa00ccaff5f760326cac9c9c90155aaffa01ad4ff3fdf0332cac9c9c90155aaffa0acddffcfff033acac9c9c90155aaffa8fc7cbf1f908814feffffff02aa570160ff3ff0f8ffff0902aa54ffd1d0d0d0a0c4e9ffffe7033acac9c9c90155aaffa0d7f2ffbf9f0332cac9c9c90155aaffa0ebf9ffef2e0326cac9c9c90155aaffa0f5fbff2ffe021ecac9c9c90155aaffa0f7fcffefd5021ea2a1a1a101556aff18f4ff21501018254a8ff53bf071f170a0a5d9ff8fef2396cac9c9c90155aaff5c5a5b4ba59a2bc6d5f3ce770757d57e2880461f0e350c9ed2ddecb8f853ad06d865381b8df4abb5bad56cf701fe01ff08683aa0cef40b9ec2d76cb9e14bb51e088448aa13353caed2dd70fbe24bb51e60ffbf959c9763ad01aa54ffe5e4e4e560ffffb5bc9fcbf901aa54ffe5e4e4f8d8fc7ebfdf755b06eff373fb03feff01d8fc7ebfdf755b06eff373fb03feff0160ffffb5bc9f033202aa54ffe5e4e4e460ffbf959c97539e02aa54ffe5e4e4a40860ab5aaf751ca6dee16e3ae14bb51e0888bfe1f214fc9dc6db6b78e14bb51e3eb30cc769fbbeb75dd302601bffbfaf1890c1dbef141ca6c6d96eba812bd57e60ffbf958c8fc74602aa54ffe5e4e4e460ffbf958c8f57c602aa54ffe5e4e4e42878b50200354c0cd2ddd1a3595a5c5e28180c884331a92c6ab3ddaefb53ad06a089c5ffff15335ec2c9c9c10155eaffa08dcaff4f6e3b76cac9c9c90195eafea09bd4ff2fcf539ecac9c9c90155aafe60ffffb2dad767dd01aa54ffe5e4e4e428f87cbfdfb25a5dfaf77bfffb53ad0660ffffb2eadfff0902aa54ffd1d0d0d060ffffb2dad7239a02aa54ffe5e4e4e4a056f2ff9f97539ecac9c9c90155aabfa06af9ffdf263b76cac9c9c90156abbfa074fbff2ffe325eeac9c9e90155abff18dceff97c51992476bb59ed832bd57e18f0ffa5103128a6468f6f7af271f17060ffbf958c8f3fa501aa54ffe5e4e4e460ff7f5ade26bb5501aa54ffe1e090900a523541f37dcb750cd3f37f642bed48400f89ec4687ffff03006665abaaefee08804a2751f9fd36a7c5e234e34bb51e089856b0d5392e47afc76476e24bb51e60ffbf5ade267fbd01aa54ffe5e4e9f960ffff7aee2ed3f901aa54ffe5e8e9f9c0df4f3d7f97ffff01007777bbbbeeeec0df4f3d7f97ffff01007777bbbbeeee60ffff7aee2e032602aa54ffe5e4e4e460ffbf5ade263b7602aa54fff9e4e4a4084ca1542c5a1e3fb3c9e375e24bb51e0874afdaaff9fd2eabc562b4e24bb51ed884bddb2e19ed5ea3cbe1b103fe7f091878b3d5acf91d3fa7c56335822bd57e60ff7f5ade26a33602aa54ffe5e4e4e960ff7f5ade26439e02aa54ffe5e4e4a42860a903c0399e14aac7d263db5a5c5e28180e0a84f2295d66b3ddeefa53ad0e0824168c05533a6d7ebde0f0e34bb51ed8342c1807749aa592d9ebb1cac93736d87054ab4e15ebd5c2ef7477cac9373660ffff159caf73e101aa54ffe5e4e4e4d8ff7ebf1f368cf5eeed7a3c0155ffff180081c120361cc6eeedf63d802bd57e60ffff159caf1f8e02aa54ffe5e4e4e4d858c7612ab6aaf5dee16e3ac9c93736d8a0e5f1f3144ac5b2c9e375cac9373608d0e5f47a732a6586c1deefe34bb51e18dceb783c33fa5476b9d9ac832bd57e18f0ff2b1352183f478f63f5f271f17060ff7f5ade2663b101aa54ffe5e4f4f936dc85757aaeef30fcc2111e98efe11e60ff7f9c0eee6a3901aa545ffbe4a4a4d8944c28133c3e9783bdddae06de75a95e536551b8aee3b0fbc2f057e3c8a9353a15965578aee730fcbeb3de554ca11360ff3fdd2efe9ecd01aad6ffe5e4e4e560ff7ffd2efedefd01aa54ffe5e4e8e8f8007fbf5fdd7eb78fc1dfaf0354ffaba8007f3f60dd6eb78fc1dfb001d4af0060ff7ffd2efe021e02aa54ffe5e4e4e460ff3fdd2efe325e02aad6fff5e4e4e4d834a752265d4eaf87c1deefcbc937360858a9d66c9c3e8f83bb5df0e14bb51ea868b1582c5c3e8f83bb5daf02ccb70006ac9aaab8aee7b0fbc2107d1bc98635d83c8bc5e7bc7eaf87c5e0efc8c9373660ffffdc2efe327a02d456ffe5e4e4e42848a30480bcde1c86bd52645a5a5c5e2820120b45946a9d6ab55c2e78b30c0642c57114e9caaa2efcbaa7f5a3cdbd13d83c321ac8b5fbd58ad5e870cbc93736d87c582dd0575c0eb7e5f035cac9373660ffffd83c877fe501aa54ffe5e4e4e460fffff84c8ff7fd01aa54fffdfcfcfe60fffff84c8fff0902aa54ffd1909090d80ca1cf21795c3ed3e570b9c9c93736d84cc1dfa9f81b2ec7db6b78c9c93736d898dfef72f7aafdaac562b4cac93736d8c4e9f3b8956acd82bb5df0c9c9373618d4e9f6bbf44a8572b9d96c872dd55606fd7f5966a8e7e9f8c6d537fd400734e8c07039d89c6ea78bc5e0afca3736363e1d9675bbbef3aedbb6173ea111da1e3e576561bbbeefaedbb6d43ff3b1da0bd8a44e2a147d6ea773b9d9ad73a9fc01f8a458ae15bd7eb773b9d9ac23cbcb37f8b4683558fd9ec773bb5a6dc8c9cb373e5ad76dfbcef3aecbb2131ae221fe1e60ffff3defd5e2fd0100aafee5e4e4e9c0dfefaef766ffff010022223333ddddd8fd8040e05d8fc77bb55d6f00fe01ff60ffff3defd5021e0200aafee5e4e4d4f8149549e2fd9ecf77bb59edcbc9c937f830a34fe5bd8ec777b9d9accbc9c937f848af54689d6ebf73b9d96cd7494937a85cad54eb9c6ea773b7d9ed83aaff291858a5d028dd7eaf77b5dbaea24b4b7ff8348bc4a61d9fc777bddc6dc8c9c937f8149b4de2dd7ec777bbdbedcbc9c9370ae82900fa7e8a6e9b92f3422ff6e227a009c6ff9fe5a2bef2f1f1d1fbfdf9a8f8341e0f06569bbd76bfe0aea0c9a13740c8661b0ea3ffff53e951fa51e940e9f8805a2dd0d86c16abddf0f5c8c9c937f8c0783cd8197d3ebfe171f8c9c9c937f8fc7ebf1f1a7d3ec7e1f1f8affeabaaf8fc80c01f1a7d3ec3e1f1f8c3c1c13ff80c9fcf61fa6c3ec7dff038cbc9c9370669fbbeb30cc7b75dd3b217fbb117bc0890d1ee75d8bbeda2cbe1b17bf8785818c0e5f3b9167bcd82bbddae7069717118cce976fbd54aad72b759ede9e8e9fb18e8fd30d7b378af4f93dbeef2717171f8c4723a99fd8ebf77bbdbedcbc9c937d8e57ebdddfed7ef5bffcca703f601ffdc9903213cff5d63afca49eb07a8fe4ff8c0748a84deef824d93dded0154ff2ff8c8760cc5decf72499161ef0154ff373e9ac71cfd3f55e958c797a86dffff1df8ec7c2b4fff1f2a458ff4b70154ff37f8f87e3c57ff0f0a458ff77a0054ff37d8fc7e3f60df0ffa4795f7e300feff01f8fc7e4160ff0f02458ff77b0054ff7ff804815162ff1f02498ff53b0054ff37f81083622aff5f0a458f6f7a0254ff37f82085f133ffbf32458f63f50254ff373e66a8e7fd7f59e9f8c615a0257fbb0bf83c8bf7bade0f734d93dbee0254ff57dc67f4ff79ff9b7bac4a3a7f05a8fe7fd818873fa1befff35b9f7fe601feff01d81d7f41e3fee7ef5bffcca801d451ffec677c3200ff9f9fb1ce4fabb4bcbc5828241089c5141ab56ab75c2ef1d12b07f82c1c8d45154b9576c161afcccb2937f840329847d6abad8ad3ebb1c8c9c937f87c5aab0e98fcddb2e37477cac9c93760ffbf191caf7fe501aaaafee5e4e4e4f8fc7e3f9f991c0ecbe9767b03acfe07f8fc80c19f991c0ecbe9777b022aff5f60ffbf191caf1b8202aaaafee5e4e4e4f84cc1612a19bcfdc6d96ebac9c9c937f898dff1b3375bcda6c56335cac9c9373eb8aee7ac9aaab0fbc2303263b5fa0cf8d0edf7ba550a8d76b5dbaeaaa9d357e4fd7f8db9199ff7bfca4febe4f0f1713edbf77dfdff7dacf9ff16896ced3f4908fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0882c00f97ebfdad51e6d3dcdcdc28200c88844ca7936db7deeef853ad06a009c6ffff1583cdc9a9a9a10155aaffa00dcbff4f6e5bbdc9c9c9c90756aaffa09bd4ff1fc737a9c9c9c9c90355aaff60ff3f8986ef6bdd01aa54ffe5e4e4e428fc7c3f20693623e5fdfebcf953ad0618007fc120693623e5fdfebc812bd57e60ff3f8986ef239602aa54ffe5e4e4e4a056f2ff8f8f37a9c9c9c9c94155aaffa069f9ffdf265bbdc9c9c9c95195aaffa073fbff2ffe82cdc9d1d1f10155aaff18d8f1f87b4ca79375bddb6d832bd57ea8e97ffe3eeee7d359ffcce8f8dcc8c808fc7ebfdfeff7fbfdffffffafaaaaaa08fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0882c0cf580cfead50e6d2ccdcdc281c0c87049348746eb7deeef953ad0602055118a738a2ef1bc3017f23ede407a00dcbff4f6ea336cac9c9c90356aaffa09bd4ff1fc7c746cac9c9c90155aaff60ffff3689ef6bdd01aa54ffe5e4e4e4d8fc7ebf1fb7aa7ce6f7febe03feff01d800814020b7aa7ce6f77ebf01feff0160ffff3689ef239602aa54ffe5e4e4e4a056f2ff8f8fc746cac9c9c90155aaffa069f9ffdf26a336cac9c9c94195aaff08ccebf7fab3587c86c5e0efe04bb51e18d8f1797cb3486c76bddc6d802bd57e08e8fb3fbf71f8135a9f7fe67978787808fc7ebfdfeff7fbfdffffffafaaaaaa08fc7ebfdfeff7fbfdffffffafaaaaaa08fc0205c1af87e3fd99d7e7f8f8787828180e09c46e26db6db75d6ff853ad060824140bc52ef6d281bf6131e14bb51ea00dcbff4f6ebf55c9c9c9c90140a5faa09bd4ff1fc7bb39c9c9c9c90155aaff60ffbf8dd4c76bdd01aa54ffe5e4e4e4d8fc7ebf5f0d3652f9fbf9fd03feff0160ff7f8de4cfff0902aa54ffd1d0d0d060ffbf8dd4c7239602aa54ffe5e4e4e4a056f2ff8f8fbb39c9c9c9c90155aaffa069f9ffdf26bf55c9c9c9c901015aaf28d4e774bbee05d38dc55f30fb53ad0618e0ed78fc2e36db79bbdbad822bd57e08ecfb3f7f6ef7eb599f7fa67978787808fc7ebfdfeff7fbfdffffffafaaaaaa08fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0881c1ef1834feadcce8e1e0e4f42818100904b1e92c6eb95d6ff853ad061824148c85f1093582bfe2b1802bd57ea00dcbff4f6e439ecac9c9c90155aafea09bd4ff1fc757c6cac9c9c90155aaff60ff3f53dbc76bdd01aa54ffe5e4e4e428f87cbfdf72bb5dfaf379fffb53ad0660ff3f73ebcfff0902aa54ffd1d0d0d060ff3f53dbc7239602aa54ffe5e4e4e4a056f2ff8f8f57c6cac9c9c90155aaffa069f9ffdf26439ecac9c9c90155aabfa073fbff2ffe327af2d1d1c90155aaff18dced777cb1d92476bbdbed832bd57ea8ed7ffefef117345affcca8d1c8d8dc08fc7ebfdfeff7fbfdffffffafaaaaaad8fd8e41e38f1018fcadcce801a0eaffec9f9c3180170260eed33aabb4bcbc58281c128bc48b956a69b55c6efbd52e0e782d1a0f46eb746a79bd603078cb34743a07d31c95044d714dc323fe5ddcc114e87856ac0f09b4f9b8e770b6c937363660ffff27538f7fe5015255ffe5e4e4e460ffff276397f7fd0154fffffdfcfcfc60ffff276397ff090254ffffd1d0909060ffff27538f1b8202d454ffe5e4e4e4e850c3e02968f4e1d0ddecb8c83736363af37dcb523541750cd3b3fe144ee55da071faff0fee6a39c9c949490356abaf06bbbeef576561aedbb614b8dbeee637e4fd67ee35e60278a1ca3a3fe5f0f171d8fd70b9de8f2008fcad51e603fc55ffd8fc7a38de2f5010fc99d7e700feff0bf45f0880b927670ce0d33aabf4fe5501e8201430dd335a006cbdd364d2ff55013a859179682a002e9c9221deffc91640e83830b71e353b008cd7d263caff5501e874563b9fd63b00b8e9d163caff5501e8b878be9f172c00d4ef5163cbff5501d8fc7e3f20182008dc8f51a501feff01d8007fbf1f182008dc8f51a501feff01e80ca340e0f72b00dcebd163c9ff5501e850c3c4a0572b00d0ddd1a3c9ff5501e89ce34921963a00a8c7d263cbff5503e8c8ebcda1344a0084bd5264caff55013afa7e8ae829006e9b92a3fdffdb1200f4fd7f7ec6199f0ca0ce4fabf4fe5501d8fd8cc5e08f2008fcad50e602fc51ffe8149b4ea30191406cb95d6fc8373636283ca305004201d36dbdd3645a5c5c5e0e4461141535516cebb6f337eff20eef08301a9006ca543275bb60aff6525a5240c886e409a3ffff41e951e951fa51e92880402d528793d9acd56f363a3a3e3ae8c0783d580673c1c0e3f1b7ca373636c8fc7ebf1fe672b1c4e371782faefeab08fc7e40e0c562c1c4e170f9e1ab1eaae80ca1cf212683b9c8e1ef38c9373636a849bf5a6b86b3d1b8d56cf7d9cccccc40b2db434287ffff63fb60ea50ea60ea08c0e37379c9843281bdddae5ed8f0d808d0e7767aeaa44271b9d9ad436c6e6c18e8fd2e184ca7484c93ddedf1f1f070e8c8743a19c280486cb7deeec8373636e8ec66b29de190406cb75d6fc8373636e8bc58a9d621b14868b55c6ef3b7360e2a1535514461146cebb693e0ffdfb6db3ad56551c450182cebba359a0238a11ce8c06a33d7c1805064b3ddeec9373636e8d8763a9ac1704064b5dd6ecb37363660ffbf01a1f5e2fd0154ffffebe4e4e4e8fc7e3f60a1703868b3deeeadfeab0078fc7e3f60e1703864bddeee01d4bf0660ffbf01a1f5021e0254ffffd5e4e4e4e81493caa2c1803868b3ddaecb373636e8289fd2a5e1a04064b3ddeecab73636e844a9d62922b15068b55c2ec8370e0c60ff7f8291e5a2be02547fff17aebfbfe84ca1516b02915868b75c2ea135365e3aa6289ec340146dfbba31df0ccce44cf8189fd06342d15880bfe2b1c8c9c9370a682a008591792e9c92614227f8e26f0ac45018d565512cebba45761a09cd00d8301e8e45ea845275c1e02ecbc93756d84034994709243a89d169b1cbc93736d8805aac8f47d301b1e17236cac93736d8c078bc9706b3e1c4e574b9cac9373660ff3f8613a7fff501aa54ff0303030360ff3f8613a7ff0902aa54ff919090d0d80c9fd02126c3d9c8e172bac9c93736d84cbfe0a9a603eac0d76cb9c9c93736d894df6f33a87412a5c5e234cbc9373642b8aee3536551b0fbc220f663cfb91318d0eb777b8ae55a71b9d9acab29d37c18ecfd2c976cc750489161eff171f17060ff7f82f11583cd012aacfee5e4e4e4d8ec622f5d42b15080bf6131c9c9373608b54ea7d6a2f16078bd6030484fb70dd8a04c2513a3016974bb60afae74570308a44e2815e3e15874c1e02ee34b351fd8b066b1d542b16078bf6170cbc9173660ff7f62f1159fcd012854ffe7e4e4e460ff7f62f125dffd0100aa54e9e8e4e4f8fc7ebf1f22a1507cc363f103aafeabf8fc7ec01f22b1507cc3e3f102aafe5560ff7f62f125031e0200aa54e5e4e4e460ff7f62f115335e022854ffe5e4e4f4d830a5d36662c1587cbde0f0cbc937365ee9caaac571142efcba7757e3c6a93e1860b5d96be3f16074bfe0ae8009b37e1854b154e9c2d15874c161af8c2bb55e3ea738a2055118ef1bc7311ff331fb0c60ff7fc3426e43a602aa54ff95a4e4e52850b303800373eb8dd7d2635a5a5c5e281c0c0805ac367365b3ddeef953ad06082c140b066b165b79bf6170e34b951ea08ecbff3f5e377dc9c9c9c9075a6bbfd874562a0e297452b9e97778cac9373660ffff0755cf73e101aa54ffe5e4e4e428f87cbf9fe774f2d8f57afbfb53ad0618fc7ec1a0e774f2d8f57bfb802bd57e60ffff0755cf1f8e02aa54ffe5e4e4e4d850c3e36a88a43ad1dd70fbcac93736d89ce372b469055badc76476cac937360a78aee715965530fcbe6377e52ae90118d4ef797c8b568371bb5a6da02bd57e06fd3f559ac71ce958c7d73f7dd34f3d60ff7fc3426e5bbd01aa54ffebe5e4e460ff7fc3426ecb5d01aa54ff95e4e4e40a95044d07d31c714dc3735b2db9e901409207b209a3ffff11115455999aeeef089440a21344937988d169b1e34bb51e60ffbfe3325e377d01aa54fffbe9e49460ff7fa3426e7fbd01aa54fffbe9e4e460ff3f835276d3f901aa54fffbe9e8e4c0df6f5121bfffff131155559999eeeed8fc7e4020c3518994d1eff500feff0160ff3f835276032602aa54ffe5e4e4e460ff7fa3426e3b7602aa54ffa5e4e4f80840a7596ac3827190d9ebb1e24bb51e085cbb5fed23a38188d5e870e34bb51ec06d18b209a3ffff13015545a999feee1864bdda2a24837988d3ebb1802bd57e60ff7fc3426ea34202aa54fffbf4f4e460ffff2615c75bc202aa54ffe5e4e4e42868bd034067b5f3b9e9d1635a5a5c5e28180c07846da7a365b5dd6efb53ad06a089c5ffff159fcdc1c9c9c10355aaffa08dcaff4f6e7fbdc9c9c9c9075aabffa09bd4ff2fcf63adc9c9c9c90355aaff60ffbf8aa6ef67dd01aa54ffe5e4e4e460ffbf8ab6f7f7fd01aa54fffdfcfcfc60ffbf8ab6f7ff0902aa54ffd1d0d0d060ffbf8aa6ef239a02aa54ffe5e4e4e4a056f2ff9f9763adc9c9c9c94155aaffa06af9ffdf267fbdc9c9c9c951a5eaffa074fbff2ffe9ecde9c9c9e94155aaff06fbcef35ad76daecbb2033c9249ce3f18f4ffa1d2ceb7f2448ff4b7f171f17060ffff2615c737a901aa54ffe7e4e4e460ffff2615c7bb3901aa54ffe5e4e4e42890409b8f67c5fab8e770b6f953ad06e87438990d08d422add56f36eafeab000878341d10a8c5fab0e17236e24bb51e089042275567a5e2b8e97778e24bb51e60ffff2625cf63ad01aa54ffe7e4e4e460ffbf0635dfcbf901aa54fff9e4e4e4d8007f40a0e68322cdedfbbc00feff01d8007f40a0e68322cdedfbbc00feff0160ffbf0635df033202aa54ffe5e4e4e460ffff2625cf539e02aa54ffa5e4e4e40854b15e2d47b5eac0ef7477e24bb51e087cc5e5f087d502b5e5f035e24bb51e188ccd6631a8d502a9ddf0f5802bd57e1880c9dfeda7b5eab0e37477822bd57e6caaa554caa38e526677de3dc757b51ea04cedffdfc76bddc9c9c9c90155aaff2878c102808be7fbd5ef51635b5a5c5ea006c4ffaff5e2fdf1f1f1f10356aaffa089c5ffff25dffd21212121015aaaffa00ccaff5f76d3f9c9c9c9c9076aabffa01ad4ff3fdfcbf9c9c9c9c90156abffa0acddffcfffc7fdc9c9c9c90155aaff3a1ff87d1cf775ffffff4af2ffb70d0060ff3feef7ffff0902aa54ffd1d0d0d0a0c4e9ffffe7c7fdc9c9c9c90155aaffa0d7f2ffbf9fcbf9c9c9c9c90195eaffa0ebf9ffef2ed3f9c9c9c9c951a9eaffa0f5fbff2ffedefdc9c9c9c901a5aaffa0f7fcffefd5e2fda1a1a1a14195aaff18f4ffa090efc773458ff77af071f170a024daff8fef6bddc9c9c9c90155aaffa036d2ffdfc76bddc9c9c9c90155aaffa09fccff5f8f7fe5c9d1d1d10155aaff286430170c8cd783c1e3f1b7fa53ad060868301b0e8cc77bc5e574b9e24bb51ea01fd4ff5fcf73e1c9c9c9c90155aaffa02adaffafef67ddc9c9c9c90155aaff60ff3f6bc7ffc7fd01aa54ffe5e4e4e408fc7ebfdf6ab75bf1ff7ffee34bb51e18fc7e40e06ab763f1fffffe812bd57e60ff3f6bc7ff033a02aa54ffe5e4e4e4a0cbeaffdfd767ddc9c9c9c90155aaffa057f0ff9faf73e1c9c9c9c90155aaffa063f3ff3f877fe5c9c9c9c90155aaff189cd1e7338cc783bde171f8812bd57ea066f0ff1faf7fe5a9a9a9a90155aaffa05ae6ff8fef6bdde9e9e9e90155aaff1834afdbedeff7f3f9f7f93ceb69686808800182c0eff703de8f51a57978787828140a87c3eff7036ab3deee3d3a3a3a1820120ac5eff7fb7dc363f1ebe8e8e8c045e5f723bfffff53e951e951e951e908683e2812f00704ceedfbbc7878787888ac763bdbeff7fbf1ffffffcbc9496808f87ebfdfeff7fbfdffffffbbb8b8b818fc8041e0eff7fbfdffffffc3c0c0c008109353e70ff8fbfdfffc7e7b787878085cb765f0eff7fbedf373fb7b78787840f5fcf77b97ffff71eb70eb70eb70eb18d4ed773bf0f7fb8dc1dfaff3f0f0f0c0bbfef7f366ffff21d320d320d320d308f4fda0ffeff7034695f7e378787878e8906633d2cff703e6fdfebcc937363608d46023d5eff7fbf9fbf9fd7b787878a09fccff6f97f7fdf1f1f1f101ffffff58602e17cbeff7fbc5e37178ffeaeae8a018ceff1fa7fff5c9c9c9c9ff000000e8784e278fcff7fbd9f57afbcb373636a02adaffbff7f7fdc9c9c9c901ffffff0a1cf7751ff87dfffffffa811ff8811f08fc7ebf9feff7f3fdffffffe31f1e1ee8fc80c09fcff7fbfdffffff03fffefe180089c7e3eff7f3fdffffffeb696868e82cabd5a5cff7fbf9f77bffcb373636e863c35eeceff7fbeded783dcac4cbcba0e3f3ff4f8ff7fdc9c9c9c981ffffff18a0d1e7f3eff7fbc5e1f1f8bfbababa1898c9e1f0eff7f3c9e9767bf36968680870abcbe6eff7fbe5f77ebf7b7878781834afdc2d1018fcf9f7f93ceae969690880018200f0f7fbdd8f51a57978787828140c87c30ff8036ab5de6e3d3a3a3e1820120bc5ef07fc7dc3e3f16a69696908301c95c8ef070496d1eff57878787808683e2812f00704ceedfbbc7878787848ac76bbdbeff703f2ffffffc949486828f87cbfdf0f08fcfdfffffffbf9f9adb0ff3ff8ff07cecbcbcbdfb66ddb469208109353e70ff8fbfdfffc7e7b787878085cb765f0eff7fbedf373fb7b78787840f5fcf77b97ffff71eb70eb70eb70eb38d4ed763bf0f7038ec1dfb071303038a8ddf578fc0f08047ab55d6fd8cccccc18f4ff20d0ef1704468ff77bf0f1f171f890663312f0170ce6fdfebcc9c9c937a035d2ffefcfff09cac9c9c9010055ffa09fccff6f97ff09f2f1f1f1010055afd85c2c16ccef0704c6e170f9e9e88e8ea018ceff1fa7ff09cac9c9c9010055eaf8784e27cfef170cdaf57bfbc8c9c937a02adaffbff7ff09cac9c9c9010055ffa0b8dfffffffff09cac9c9c9010055ff08fc7ebfdf2f18fcfdffffffe3e14bb5d00ffeffff07aeaa54ffdfb88ddbb88da0c0e3ffffffff09cac9c9c9010055ffa0cbeaffefdfff09cac9c9c9010055fff860c3612c10180ceeedf63dc8c9c937a0e3f3ff4f8fff09cac9c9c9010055ab18a0d1e7f30f08fcc1e1f1f88381d57e1898c9e1f00f18fcc9e9777beae969710870ab4b27100804e6f77fbf78787878a04cedffdfc72396cac9c9c90155aaff287cbf02c0300a04deebd163595a5c5ea006c4ffaff5021ef2f1f1f10155a9ffa089c5ffff25031e222121210155aaffa00ccaff5f760326cac9c9c90155aaffa01ad4ff3fdf0332cac9c9c90155aaffa0acddffcfff033acac9c9c90155aaffa8fc7cbf1f908814feffffff02aa570160ff3ff0f8ffff0902aa54ffd1d0d0d0a0c4e9ffffe7033acac9c9c90155aaffa0d7f2ffbf9f0332cac9c9c90155aaffa0ebf9ffef2e0326cac9c9c90155aaffa0f5fbff2ffe021ecac9c9c90155aaffa0f7fcffefd5021ea2a1a1a101556aff18f4ff21501018254a8ff53bf071f170a024daff8fef2396cac9c9c90155aaffa036d2ffdfc72396cac9c9c90155aaffa09fccff5f8f1b82d2d1d1c90155aaff28603298cb10fa1ccae1ef38f953ad060860329ccdf0091dcae172bae14bb51ea01fd4ff5fcf1f8ecac9c9c90155aaffa02adaffafef239acac9c9c90155aaff60ff3f71fae7c7fd01aa54ffe5e4e4e4d8fc80bf1f313975fefffc7e03feff01d8fc80bf1f313975fefffc7e03feff0160ff3f71fae7033a02aa54ffe5e4e4e4a0cbeaffdfd7239acac9c9c90155aaffa057f0ff9faf1f8ecac9c9c90155aaff0890c7e5f310fa1cd2e570b9e14bb51e18a4cfe6f3f0f91cc6dff038832bd57ea066f0ff1faf1b82aaa9a9a90155aaffa05ae6ff8fef2396eae9e9e90155aaff60ffbf958c8f5bc202aa54ffe5e4e4e42878b50200354c0cd2ddd1a3595a5c5e28180c884331a92c6ab3ddaefb53ad06a089c5ffff15335ec2c9c9c10155eaffa08dcaff4f6e3b76cac9c9c90195eafea09bd4ff2fcf539ecac9c9c90155aafe60ffffb2dad767dd01aa54ffe5e4e4e428f87cbfdfb25a5dfaf77bfffb53ad0660ffffb2eadfff0902aa54ffd1d0d0d060ffffb2dad7239a02aa54ffe5e4e4e4a056f2ff9f97539ecac9c9c90155aabfa06af9ffdf263b76cac9c9c90156abbfa074fbff2ffe325eeac9c9e90155abff18dceff97c51992476bb59ed832bd57e18f0ffa5103128a6468f6f7af271f17060ffbf958c8f37a901aa54ffe5e4e4e560ffbf958c8fbb3901aa54ffe5e4e4e42880461f0e350c9ed2ddecb8f853ad06d865381b8df4abb5bad56cf701fe01ff08683aa0cef40b9ec2d76cb9e14bb51e088448aa13353caed2dd70fbe24bb51e60ffbf959c9763ad01aa54ffe5e4e4e560ffffb5bc9fcbf901aa54ffe5e4e4f8d8fc7ebfdf755b06eff373fb03feff01d8fc7ebfdf755b06eff373fb03feff0160ffffb5bc9f033202aa54ffe5e4e4e460ffbf959c97539e02aa54ffe5e4e4a40860ab5aaf751ca6dee16e3ae14bb51e0888bfe1f214fc9dc6db6b78e14bb51e3eb30cc769fbbeb75dd302601bffbfaf1890c1dbef141ca6c6d96eba812bd57e6c6ca554ca8a2bceb5efceb9c757b51e60ff7f5ade2643a602aa54ffe7e4a4942860a903c0399e14aac7d263db5a5c5e28180e0a84f2295d66b3ddeefa53ad0e0824168c05533a6d7ebde0f0e34bb51ed8342c1807749aa592d9ebb1cac93736d87054ab4e15ebd5c2ef7477cac9373660ffff159caf73e101aa54ffe5e4e4e4d8ff7ebf1f368cf5eeed7a3c0155ffff180081c120361cc6eeedf63d802bd57e60ffff159caf1f8e02aa54ffe5e4e4e4d858c7612ab6aaf5dee16e3ac9c93736d8a0e5f1f3144ac5b2c9e375cac9373608d0e5f47a732a6586c1deefe34bb51e18dceb783c33fa5476b9d9ac832bd57e18f0ff2b1352183f478f63f5f271f17060ff7f5ade265bbd01aa54ffe5e4e5e960ff7f5ade26cb5d01aa54ffe5e4e4940a523541f37dcb750cd3f37f642bed48400f89ec4687ffff03006665abaaefee08804a2751f9fd36a7c5e234e34bb51e089856b0d5392e47afc76476e24bb51e60ffbf5ade267fbd01aa54ffe5e4e9f960ffff7aee2ed3f901aa54ffe5e8e9f9c0df4f3d7f97ffff01007777bbbbeeeec0df4f3d7f97ffff01007777bbbbeeee60ffff7aee2e032602aa54ffe5e4e4e460ffbf5ade263b7602aa54fff9e4e4a4084ca1542c5a1e3fb3c9e375e24bb51e0874afdaaff9fd2eabc562b4e24bb51ed884bddb2e19ed5ea3cbe1b103fe7f091878b3d5acf91d3fa7c56335822bd57e60ff7f5ade26a34202aa54ffe5f4f4f9e81ca14f637d5eb78fc55f30c83736362848a30480bcde1c86bd52645a5a5c5e2820120b45946a9d6ab55c2e78b30c0642c57114e9caaa2efcbaa7f5a3cdbd13d83c321ac8b5fbd58ad5e870cbc93736d87c582dd0575c0eb7e5f035cac9373660ffffd83c877fe501aa54ffe5e4e4e460fffff84c8ff7fd01aa54fffdfcfcfe60fffff84c8fff0902aa54ffd1909090d80ca1cf21795c3ed3e570b9c9c93736d84cc1dfa9f81b2ec7db6b78c9c93736d898dfef72f7aafdaac562b4cac93736d8c4e9f3b8956acd82bb5df0c9c9373618d4e9f6bbf44a8572b9d96c872dd55606fd7f5966a8e7e9f8c6d537fd40073460ffffdc2efe82cd0152d5ffe5e4e4e4e8e85e305d7d4eb78fc55f30cb37363660ff7f9c0eee6a3901aa545ffbe4a4a4d8944c28133c3e9783bdddae06de75a95e536551b8aee3b0fbc2f057e3c8a9353a15965578aee730fcbeb3de554ca11360ff3fdd2efe9ecd01aad6ffe5e4e4e560ff7ffd2efedefd01aa54ffe5e4e8e8f8007fbf5fdd7eb78fc1dfaf0354ffaba8007f3f60dd6eb78fc1dfb001d4af0060ff7ffd2efe021e02aa54ffe5e4e4e460ff3fdd2efe325e02aad6fff5e4e4e4d834a752265d4eaf87c1deefcbc937360858a9d66c9c3e8f83bb5df0e14bb51ea868b1582c5c3e8f83bb5daf02ccb70006ac9aaab8aee7b0fbc2107d1bc9863536a8289eb9beeb30fcbe333bf3cfe00cf8189bcc22de7ec77bbbdbadcbc9c9370ae82900fa7e8a6e9b92f3422ff6e227a009c6ff9fe5a2bef2f1f1d1fbfdf9a8f8341e0f06569bbd76bfe0aea0c9a13740c8661b0ea3ffff53e951fa51e940e9f8805a2dd0d86c16abddf0f5c8c9c937f8c0783cd8197d3ebfe171f8c9c9c937f8fc7ebf1f1a7d3ec7e1f1f8affeabaaf8fc80c01f1a7d3ec3e1f1f8c3c1c13ff80c9fcf61fa6c3ec7dff038cbc9c9370669fbbeb30cc7b75dd3b217fbb117bc0890d1ee75d8bbeda2cbe1b17bf8785818c0e5f3b9167bcd82bbddae7069717118cce976fbd54aad72b759ede9e8e9fb18e8fd30d7b378af4f93dbeef2717171f8c4743a991d8fbf77bddb6dcbc9c937f8ec62b31dde8ec77bbbdbadcac9c9373e576561bbbeefaedbb6d43ff3b1da0bd8a44e2a147d6ea773b9d9ad73a9fc01f8a458ae15bd7eb773b9d9ac23cbcb37f8b4683558fd9ec773bb5a6dc8c9cb373e5ad76dfbcef3aecbb2131ae221fe1e60ffff3defd5e2fd0100aafee5e4e4e9c0dfefaef766ffff010022223333ddddd8fd8040e05d8fc77bb55d6f00fe01ff60ffff3defd5021e0200aafee5e4e4d4f8149549e2fd9ecf77bb59edcbc9c937f830a34fe5bd8ec777b9d9accbc9c937f848af54689d6ebf73b9d96cd7494937a85cad54eb9c6ea773b7d9ed83aaff291858a5d028dd7eaf77b5dbaea24b4b7f3ea7289a3bcfefeedbb6321bb331db0cd81d7f41a3fee7ef5bffcce801d451ffec677c3200ff9f9fb1ce4fabb4bcbc5828241089c5141ab56ab75c2ef1d12b07f82c1c8d45154b9576c161afcccb2937f840329847d6abad8ad3ebb1c8c9c937f87c5aab0e98fcddb2e37477cac9c93760ffbf191caf7fe501aaaafee5e4e4e4f8fc7e3f9f991c0ecbe9767b03acfe07f8fc80c19f991c0ecbe9777b022aff5f60ffbf191caf1b8202aaaafee5e4e4e4f84cc1612a19bcfdc6d96ebac9c9c937f898dff1b3375bcda6c56335cac9c9373eb8aee7ac9aaab0fbc2303263b5fa0cf8d0edf7ba550a8d76b5dbaeaaa9d357e4fd7f8db9199ff7bfca4febe4f0f171d8e17e3e9dfee7ef5bffcce8005e07ffd8e476bfdebefff35b9f7fa601feff01dc9903213cff5d63afca49eb07a8fe4ff8c0748a84deef824d93dded0154ff2ff8c8760cc5decf72499161ef0154ff373e9ac71cfd3f55e958c797a86dffff1df8ec7c2b4fff1f2a458ff4b70154ff37f8f87e3c57ff0f0a458ff77a0054ff37d8fc7e3f60df0ffa4795f7e300feff01f8fc7e4160ff0f02458ff77b0054ff7ff804815162ff1f02498ff53b0054ff37f81083622aff5f0a458f6f7a0254ff37f82085f133ffbf32458f63f50254ff373e66a8e7fd7f59e9f8c615a0257fbb0bf83c8bf7bade0f734d93dbee0254ff57dc67f4ff79ff9b7bac4a3a7f05a8fe7fd8197f42e2fee7ef5bffcca7025e03ff08fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0882c0cf580cfead50e6d2ccdcdc0ac34014a6289e6dfbba617f249de44806055118a738a2ef1bc7017c1b6de737a00dcbff4f6ea342cac9c9c90356bfff548e5247996a299572f7ce3d976f363660ffbf9689ef6bdd01aafeffe5e4e4e4d8fc7ebf1fb7ba6ce6f77ebf03feff01d800814020b7ba74e6f77fbf00feff0160ffbf9689ef239602aafeffe5e4e4e4542ac635575b2995b26fdeb9976f3636a069f9ffdf26a342cac9c9c94195feff02b9beeba8289e30fcbe937f23edc407063bcfefa7289aeedbb602781b6dc736a8ed7ffebef127245affcca7faccc8c808fc7ebfdfeff7fbfdffffffafaaaaaa08fc7ebfdfeff7fbfdffffffafaaaaaaa8fd0882c00f97ebfdad51e6d3dcdcdc281c0c88844ca7936db7deeef853ad061828120b062c877b7dc16371822bd57ea00dcbff4f6e63b1c9c9c9c90356afffa09bd4ff1fc73fa5c9c9c9c90155aaff60ff7f6986ef6bdd01aa54ffe5e4e4e460ff3f6996f7f7fd01aa54fffdfcfcfc60ff3f6996f7ff0902aa54ffd1d0d0d060ff7f6986ef239602aa54ffe5e4e4e4a056f2ff8f8f3fa5c9c9c9c90155aaffa069f9ffdf2663b1c9c9c9c94195faff28cce9763a0c978389c5e0affa53ad0618d8eff87b2ca79375bbdbed832bd57e06fdff7ddbf77dacf9ff462774d4477d08fc7ebfdfeff7fbfdffffffafaaaaaa
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+--- !u!21 &3969659012701203617
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &4070417111020440160
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: c1f8bac2a6637264ea45079cfa2c04e8, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Radius: 3.87
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &5167799797095768118
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &5505801469932115824
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: bd0e9b179d9b69e4f9a0f98d347bee62, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Channel: 0
+    - _Feather: 0.01
+    - _Invert: 0
+    - _Threshold: 0.02
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &5625444952501724008
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 8337319f84fab2b4d8243836e6201c22, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AMode: 6
+    - _BMode: 0
+    - _GMode: 0
+    - _RMode: 0
+    m_Colors:
+    - _Custom: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &6346805925181881799
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 47633e2c0f07a004eae77b0445ed0bd5, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &6510926384769594145
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: -6465566751694194690, guid: 7cad23c262a495a4ba607510a558c0a6,
+    type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_B5DB8B20:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_C30F1996: 55.66
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &6844481074593144963
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: c9fe3de6e0f2f1d4b8d8afc805f4ca22, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.5, g: 0.5, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &6888248324271155391
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 30368c84ef4f1eb4d900c9b34b8c58ce, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &7004540967644844827
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/FinalCopy
+  m_Shader: {fileID: 4800000, guid: 513c040fbfb854aebb92cf147e30125a, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &7405001138705893646
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 423c5740bee720241a593eb459426694, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors:
+    - _Bias: {r: 0, g: 0, b: 0, a: 0}
+    - _Scale: {r: 0.5, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!21 &7490742534370369085
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: -6465566751694194690, guid: 7cad23c262a495a4ba607510a558c0a6,
+    type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_B5DB8B20:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_C30F1996: 55.66
+    m_Colors: []
+  m_BuildTextureStacks: []
+--- !u!21 &7880307417592599113
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 535eef2511f2f5540b6c9cc7430067f4, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SourceA_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceA_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SourceB_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Value: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!21 &8747892011376586487
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 423c5740bee720241a593eb459426694, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors:
+    - _Bias: {r: -0.11, g: -0.11, b: -0.11, a: -0.11}
+    - _Scale: {r: 1.11, g: 0.11, b: 0.11, a: 0.11}
+  m_BuildTextureStacks: []
+--- !u!21 &9041693204969514687
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/Mixture/ShaderNodeDefault
+  m_Shader: {fileID: 4800000, guid: 4c38089cecadf714bbabc313d575804d, type: 3}
+  m_ShaderKeywords: CRT_2D
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Input_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Input_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Input_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_3D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Source_Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Mode: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
